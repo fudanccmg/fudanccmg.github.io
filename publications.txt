@@ -4,30 +4,30 @@ begin 2016
 	Yue-Yu Zhang, Shiyou Chen, Hongjun Xiang, Xin-Gao Gong*
 	CARBON
 	10.1016/j.carbon.2016.08.015
-	_pdfs/2016_carbon1.pdf
+	pdfs/2016_carbon1.pdf
 	
 	Achieving High Aqueous Energy Storage via Hydrogen-Generation Passivation
 	Yuhang Wang, Xiaoqi Cui, Yueyu Zhang, Lijuan Zhang, Xingao Gong,*and Gengfeng Zheng*
 	Advanced Materials
 	10.1002/adma.201602583
-	_pdfs/2016_Adv. Mater1.pdf
+	pdfs/2016_Adv. Mater1.pdf
 
 	Two-Dimensional SiS Layers with Promising Electronic and Optoelectronic Properties: Theoretical Prediction
 	Ji-Hui Yang,Yueyu Zhang,Wan-Jian Yin,X. G. Gong,Boris I. Yakobson,and Su-Huai Wei
 	Nano Letters
 	10.1021/acs.nanolett.5b04341
-	_pdfs/2016_nanolett1.pdf
+	pdfs/2016_nanolett1.pdf
 	Self-passivation rule and structure of CdTe Σ3 (112) grain boundaries
 	Cheng-yan Liu, Yue-yu Zhang, Yu-sheng Hou, Shi-you Chen,Hong-jun Xiang and Xin-gao Gong
 	PHYSICAL REVIEW B
 	10.1103/PhysRevB.93.205426
-	_pdfs/2016_prb2.pdf
+	pdfs/2016_prb2.pdf
 
 	Giant biquadratic interaction-induced magnetic anisotropy in the iron-based superconductor AxFe2−ySe2
         Hai-Feng Zhu,Hai-Yuan Cao,Yun Xie,Yu-Sheng Hou,Shiyou Chen,Hongjun Xiang and Xin-Gao Gong
         PHYSICAL REVIEW B
         10.1103/PhysRevB.93.024511
-        _pdfs/2016_prb1.pdf
+        pdfs/2016_prb1.pdf
 
 end 2016
 begin 2015
@@ -35,43 +35,43 @@ begin 2015
         Biao Kong,Jing Tang,Yueyu Zhang,Tao Jiang,Xingao Gong,Chengxin Peng,Jing Wei,Jianping Yang,YongchengWang,Xianbiao Wang, Gengfeng Zheng*,Cordelia Selomulya* and Dongyuan Zhao*
         NATRUE CHEMISTRY
         10.1038/NCHEM.2405
-        _pdfs/2015_NChem1.pdf
+        pdfs/2015_NChem1.pdf
 
         Three-step approach for computing band offsets and its application to inorganic ABX3 halide perovskites
         Li Lang,Yue-Yu Zhang,Peng Xu,Shiyou Chen,H. J. Xiang* and X. G. Gong†
         PHYSICAL REVIEW B
         10.1103/PhysRevB.92.075102
-        _pdfs/2015_PRB1.pdf
+        pdfs/2015_PRB1.pdf
 
         Mesoporous Fe2O3−CdS Heterostructures for Real-Time Photoelectrochemical Dynamic Probing of Cu2+
         Jing Tang,Jun Li,Yueyu Zhang,Biao Kong,Yiliguma,Yang Wang,Yingzhou Quan,Hao Cheng,Abdullah M. Al-Enizi,Xingao Gong,and Gengfeng Zheng*
         Ananlytical Chemistry
         10.1021/acs.analchem.5b00844
-        _pdfs/2015_acs.analchem1.pdf
+        pdfs/2015_acs.analchem1.pdf
 
         Lattice-distortion Induced Magnetic Transition from Lowtemperature Antiferromagnetism to High-temperature Ferrimagnetism in Double Perovskites A2FeOsO6 (A = Ca, Sr)
         Y. S. Hou, H. J. Xiang & X. G. Gong
         SCIENTIFIC REPORTS
         10.1038/srep13159
-        _pdfs/2015_srep2.pdf        
+        pdfs/2015_srep2.pdf        
 
         Oxygen Vacancy Induced Flat Phonon Mode at FeSe/SrTiO3 interface 
         Yun Xie, Hai-Yuan Cao, Yang Zhou, Shiyou Chen, Hongjun Xiang & Xin-Gao Gong*
         SCIENTIFIC REPORTS
         10.1038/srep10011
-        _pdfs/2015_srep1.pdf
+        pdfs/2015_srep1.pdf
 
         Three-dimensional WS2 nanosheet networks for H2O2 produced for cell signaling
         Jing Tang, Yingzhou Quan, Yueyu Zhang, Min Jiang,Abdullah M. Al-Enizi, Biao Kong, Tiance An,Wenshuo Wang, Limin Xia, Xingao Gong and Gengfeng Zheng*
         NANOSCALE
         10.1039/c5nr09236a
-        _pdfs/2015_nanoscale1.pdf
+        pdfs/2015_nanoscale1.pdf
 
         Branched Artificial Nanofinger Arrays by Mesoporous Interfacial Atomic Rearrangement
         Biao Kong, Jing Tang, Yueyu Zhang, Cordelia Selomulya, Xingao Gong, Yang Liu, Wei Zhang, Jianping Yang, Wenshuo Wang, Xiaotian Sun, Yufei Wang, Gengfeng Zheng,* and Dongyuan Zhao*
         JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
         10.1021/jacs.5b01747
-        _pdfs/2015_jacs1.pdf
+        pdfs/2015_jacs1.pdf
 
 end 2015
 begin 2014
@@ -79,62 +79,62 @@ begin 2014
         Luo, Wei; Ma, Yanming; Gong, Xingao,Hongjun Xiang*
         JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
         10.1021/ja507147p
-        _pdfs/2014_jacs1.pdf
+        pdfs/2014_jacs1.pdf
  
         Predicting New TiO2 Phases with Low Band Gaps by a Multiobjective Global Optimization Approach
         Chen, Hou-Zun; Zhang, Yue-Yu; Gong, Xingao; Xiang, Hongjun
         JOURNAL OF PHYSICAL CHEMISTRY C 
         10.1021/jp411437f
-        _pdfs/2014_jpcc1.pdf
+        pdfs/2014_jpcc1.pdf
 
         Influence of Defects and Synthesis Conditions on the Photovoltaic Performance of Perovskite Semiconductor CsSnl(3)
         Xu, Peng; Chen, Shiyou; Xiang, Hong-Jun; Gong, Xin-Gao Gong; Wei Su-Huai
         CHEMISTRY OF MATERIALS 
         10.1021/cm503122j
-        _pdfs/2014_cm1.pdf
+        pdfs/2014_cm1.pdf
 
         Design of I-2-II-IV-VI4 Semiconductors through Element Substitution: The Thermodynamic Stability Limit and Chemical Trend
         Wang, Congcong; Chen, Shiyou; Yang, Ji-Hui; Lang Li, Xiang Hong-Jun ,Gong Xin-Gao ;Walsh Aron; Wei Su-Huai
         CHEMISTRY OF MATERIALS
         10.1021/cm500598x
-        _pdfs/2014_cm2.pdf
+        pdfs/2014_cm2.pdf
         
         WO3 Nanoflakes for Enhanced Photoelectrochemical Conversion
         Li, WJ; Da, PM; Zhang, YY; Lin; X, Gong, XG; Zheng, GF
         ACS NANO
         10.1021/nn5053684
-        _pdfs/2014_an1.pdf
+        pdfs/2014_an1.pdf
          
 
         Intrinsic insulating ferromagnetism in manganese oxide thin films
         Y. S. Hou, H. J. Xiang,* and X. G. Gong+
         Phys. Rev. B
         10.1103/PhysRevB.89.064415  
-        _pdfs/2014_prb2.pdf       
+        pdfs/2014_prb2.pdf       
 
         Inverse design of materials by multi-objective differential evolution 
         Yue-Yu Zhang, Weiguo Gao, Shiyou Chen, Hongjun Xiang, Xin-Gao Gong*
         Computational Materials Science
         10.1016/j.commatsci.2014.10.054
-        _pdfs/2014_cms1.pdf
+        pdfs/2014_cms1.pdf
     
         Valley and band structure engineering of folded MoS2bilayers
         Tao Jiang,Hengrui Liu,DiHuang, Shuai Zhang, Yingguo Li, Xingao Gong*,Yuen-Ron Shen, Wei-Tao Liu*,and Shiwei Wu*
         Nature Nanotechnology
         10.1038/nnano.2014.176
-        _pdfs/2014_nnano.pdf
+        pdfs/2014_nnano.pdf
 
 	Solar-Driven Photoelectrochemical Probing of Nanodot/Nanowire/ Cell Interface
 	J Tang, Y Zhang,B Kong, Y Wang, P Da, J Li, A A Elzatahry, D Zhang, X Gong, G Zheng (2014)
 	Nano Letters
 	10.1021/nl500608w
-	_pdfs/2014NanoLett1.pdf
+	pdfs/2014NanoLett1.pdf
 
 	What are grain boundary structures in graphene?
 	Z L Li, Z M Li, H Y Cao, J H Yang, Q Shu, Y Y Zhang, H J Xiang, X G Gong (2014)
 	Nanoscale
 	10.1039/c3nr06823d
-	_pdfs/2014nanoscale1.pdf
+	pdfs/2014nanoscale1.pdf
 
 	Predicting New TiO2 Phases with Low Band Gaps by a Multiobjective Global Optimization Approach
 	Chen, H. Z., Zhang, Y. Y., Gong, X., & Xiang, H. (2014)
@@ -146,13 +146,13 @@ begin 2014
 	HY Cao, S Tan, H Xiang, DL Feng, XG Gong
 	Physical Review B
 	10.1103/PhysRevB.89.014501
-	_pdfs/2014prb1.pdf
+	pdfs/2014prb1.pdf
 
 	First-principles study on the electronic andoptical properties of cubic ABX3 halide perovskites
 	L Lang, J H Yang, H R Liu, H J Xiang, X G Gong (2014)
 	Physics Letters A
 	10.1016/j.physleta.2013.11.018
-	_pdfs/2014pla1.pdf
+	pdfs/2014pla1.pdf
 
 end 2014
 begin 2013
@@ -160,38 +160,38 @@ begin 2013
 	Yongcheng Wang, Yue-Yu Zhang, Jing Tang, Haoyu Wu, Ming Xu, Zheng Peng, Xin-Gao Gong, and Gengfeng Zheng
 	ACS Nano
 	10.1021/nn4040876
-	_pdfs/2013ACSNano2.pdf
+	pdfs/2013ACSNano2.pdf
 	
 	Self-Assembled Water Molecules as a Functional Valve for a High-Pressure Nanocontainer
 	H. Y. Chen1, D. Y. Sun1, X. G. Gong and Zhi-Feng Liu
 	Angew Chem Int Ed
 	10.1002/anie.201207463
-	_pdfs/2013Angew.pdf
+	pdfs/2013Angew.pdf
 	
 	Classification of Lattice Defects in the Kesterite Cu2ZnSnS4 and Cu2ZnSnSe4 Earth-Abundant Solar Cell Absorbers
 	Shiyou Chen,Aron Walsh,Xin-gao Gong, and Su-Huai Wei
 	Advanced Materials
 	10.1002/adma.201203146
-	_pdfs/2013AM.pdf
+	pdfs/2013AM.pdf
 
 	Composition- and Band-Gap-Tunable Synthesis of Wurtzite-Derived Cu2ZnSn(S1xSex)4 Nanocrystals: Theoretical and Experimental Insights
 	Feng-Jia Fan,Liang Wu,Ming Gong,Guangyao Liu,Yi-Xiu Wang,Shu-Hong Yu,Shiyou Chen,Lin-Wang Wang,and Xin-Gao Gong
 	ACS Nano
 	10.1021/nn3052296
-	_pdfs/2013ACSNano.pdf
+	pdfs/2013ACSNano.pdf
 	
 	Magnetic properties and energy-mapping analysis
 	Hongjun Xiang,Changhoon Lee,Hyun-Joo Koo,Xingao Gong and Myung-Hwan Whangbo
 	Dalton Transactions
 	10.1039/c2dt31662e
-	_pdfs/2013Dalton.pdf
+	pdfs/2013Dalton.pdf
 
 
 	Stability and electronic structure of Cu2ZnSnS4 surfaces: First-principles study
 	Peng Xu (2013)
 	PHYSICAL REVIEW B
 	10.1103/PhysRevB.88.045427
-	_pdfs/PhysRevB.88.045427.pdf
+	pdfs/PhysRevB.88.045427.pdf
 	
 	Prediction of a multiferroic state with large electric polarization in tensile-strained TbMnO3
 	YS Hou, JH Yang, XG Gong, HJ Xiang
@@ -209,36 +209,36 @@ begin 2013
 	L Lang, C Dong, G Chen, J Yang, X Gu, H Xiang, R Wu…
 	Nanoscale
 	10.1039/C3NR03301E
-	_pdfs/c3nr03301e.pdf
+	pdfs/c3nr03301e.pdf
 
 	High Temperature Ferromagnetic-Ferroelectric Multiferroicity in Strained BiMnO3
 	X. Z. Lu,X. G. Gong,H. J. Xiang
 	Materials Science 
 	null			
-	_pdfs/2013/1301.3660v1.pdf
+	pdfs/2013/1301.3660v1.pdf
 
 	Cu2Zn(Sn,Ge)Se4 and Cu2 Zn(Sn,Si)Se4 alloys as photovoltaic materials:Structural and electronic properties
 	Qiang Shu, Ji-Hui Yang, Shiyou Chen, Bing Huang, Hongjun Xiang, Xin-Gao Gong, and Su-Huai Wei
 	PHYSICAL REVIEW B 
 	10.1103/PhysRevB.87.115208
-	_pdfs/2013/PhysRevB.87.115208.pdf
+	pdfs/2013/PhysRevB.87.115208.pdf
 	Proton-Induced Dysfunction Mechanism of Cathodes in an Aqueous Lithium Ion Battery
 	Qiang Shu, Long Chen, Yongyao Xia, Xingao Gong, and Xiao Gu
 	The Journal of Physical Chemistry C
 	10.1021/jp311270s
-	_pdfs/2013/jp311270s.pdf
+	pdfs/2013/jp311270s.pdf
 	
 	Origin of the superior conductivity of perovskite Ba(Sr)SnO3
 	Heng-Rui Liu,Ji-Hui Yang,H. J. Xiang,X.G.Gong,and Su-Huai Wei
 	Appl. Phys. Lett
 	10.1063/1.4798325
-	_pdfs/2013/APPLAB.pdf
+	pdfs/2013/APPLAB.pdf
 
 	Towards Direct-Gap Silicon Phases by the Inverse Band Structure Design Approach
 	HJ Xiang,B Huang,E Kan,SH Wei,XG Gong 
 	Physical Review Letters
 	10.1103/PhysRevLett.110.118702
-	_pdfs/2013/PhysRevLett.110.118702.pdf
+	pdfs/2013/PhysRevLett.110.118702.pdf
 
 end 2013
 begin 2012
@@ -246,97 +246,97 @@ begin 2012
 	Heng-Rui Liu,Ji-Hui Yang,Yue-Yu Zhang,Shiyou Chen,Aron Walsh,Hongjun Xiang,Xingao Gong and Su-Huai Wei
 	Phys. Chem. Chem. Phys. 
 	 10.1039/c2cp44484d
-	_pdfs/2012_pccp.pdf
+	pdfs/2012_pccp.pdf
 
 	First-principles study on the effective masses of zinc-blend-derived Cu2 Zn2IV2VI4 (IV 5 Sn,Ge,Si and VI 5 S,Se) 
 	Heng-Rui Liu,Shiyou Chen,Ying-Teng Zhai,H. J. Xiang,X. G. Gong,and Su-Huai Wei
 	JOURNAL OF APPLIED PHYSICS 
 	112,093717
-	_pdfs/2012_jap.pdf
+	pdfs/2012_jap.pdf
 
 	Magnetic properties and energy-mapping analysis 
 	Hongjun Xiang,Changhoon Lee,Hyun-Joo Koo,Xingao Gong and Myung-Hwan Whangbo
 	Dalton Transactions 
 	 10.1039/c2dt31662e
-	_pdfs/2012_C2DT.pdf
+	pdfs/2012_C2DT.pdf
 
 	Helicoidal magnetic structure and ferroelectric polarization in Cu3Nb2O8 
 	Z. L. Li,M.-H. Whangbo,X. G. Gong,and H. J. Xiang
 	PHYSICS REVIEW B 
 	86 174401
-	_pdfs/2012_prb02.pdf
+	pdfs/2012_prb02.pdf
 
 	Unexpected large thermal rectification in asymmetric grain boundary of graphene 
 	 Hai-Yuan Cao,Hongjun Xiang,Xin-Gao Gong 
 	Solid State Communications 
 	Volume 152,Issue 19,October 2012,Pages 1807-1810
-	_pdfs/2012_ssc01.pdf
+	pdfs/2012_ssc01.pdf
 
 	Size-dependent melting behavior of iron nanoparticles by replica exchange molecular dynamics. 
 	 Shu,Qiang; Yang,Yang; Zhai,Ying-Teng; Sun,D Y; Xiang,H J; Gong,X G 
 	Nanoscale 
 	4 6307-11
-	_pdfs/2012_ns01.pdf
+	pdfs/2012_ns01.pdf
 
 	Strong Dzyaloshinskii-Moriya Interaction and Origin of Ferroelectricity in Cu2OSeO3 
 	 J. H. Yang,Z. L. Li,X. Z. Lu,M.-H. Whangbo,Su-Huai Wei,X. G. Gong,and H. J. Xiang 
 	PHYSICAL REVIEW LETTERS
 	109 107203
-	_pdfs/2012_prl02.pdf
+	pdfs/2012_prl02.pdf
 
 	Si3AlP:A New Promising Material for Solar Cell Absorber 
 	Yang,JH; Zhai,YT; Liu,HR; Xiang,HJ; Gong,XG; Wei,SH
 	JOURNAL OF THE AMERICAN CHEMICAL SOCIETY 
 	13412653-12657
-	_pdfs/2012_jacs01.pdf
+	pdfs/2012_jacs01.pdf
 
 	Strain effect on the diffusion of interstitial Mn in GaAs 
 	Wang,ZT; Chen,SY; Duan,XM; Wei,SH; Sun,DY; Gong,XG
 	JOURNAL OF PHYSICS-CONDENSED MATTER 
 	24 215801
-	_pdfs/2012_jpc01.pdf
+	pdfs/2012_jpc01.pdf
 
 	Giant Ferroelectric Polarization of CaMn7O12 Induced by a Combined Effect of Dzyaloshinskii-Moriya Interaction and Exchange Striction 
 	Lu,XZ; Whangbo,MH; Dong,S; Gong,XG; Xiang,HJ
 	PHYSICAL REVIEW LETTERS 
 	85 054426
-	_pdfs/2012_prl01.pdf
+	pdfs/2012_prl01.pdf
 
 	Kesterite Thin-Film Solar Cells:Advances in Materials Modelling of Cu2ZnSnS4 
 	Walsh,A; Chen,SY; Wei,SH; Gong,XG 
 	ADVANCED ENERGY MATERIALS 
 	24 2305-2309
-	_pdfs/2012_adem01.pdf
+	pdfs/2012_adem01.pdf
 
 	An Optimized Ultraviolet-A Light Photodetector with Wide-Range Photoresponse Based on ZnS/ZnO Biaxial Nanobelt 
 	 Linfeng Hu,Jian Yan,Meiyong Liao,Hongjun Xiang,Xingao Gong,Lide Zhang,Xiaosheng Fang 
 	Advanced Materials
 	2 400-409
-	_pdfs/2012_adm01.pdf
+	pdfs/2012_adm01.pdf
 
 	Effective Control of the Charge and Magnetic States of Transition-Metal Atoms on Single-Layer Boron Nitride 
 	 Bing Huang,Hongjun Xiang,Jaejun Yu,and Su-Huai Wei 
 	PHYSICAL REVIEW LETTERS 
 	108 206802
-	_pdfs/2012_prl03.pdf
+	pdfs/2012_prl03.pdf
 
 	Strong single-ion anisotropy and anisotropic interactions of magnetic adatoms induced by topological surface states 
 	Z. L. Li,J. H. Yang,G. H. Chen,M.-H. Whangbo,H. J. Xiang,and X. G. Gong
 	PHYSICS REVIEW B 
 	108 187204
-	_pdfs/2012_prb01.pdf
+	pdfs/2012_prb01.pdf
 
 	Ordered Semiconducting Nitrogen-Graphene Alloys
 	H. J. Xiang,B. Huang,Z.Y. Li,S.-H. Wei,J. L. Yang,and X.G. Gong
 	PHYSICAL REVIEW X 
 	2 011003
-	_pdfs/2012_prx01.pdf
+	pdfs/2012_prx01.pdf
 
 	Layer and size dependence of thermal conductivity in multilayer graphene nanoribbons
 	Hai-Yuan Cao,Zhi-Xin Guo,Hongjun Xiang,Xin-GaoGong
 	PHYSICS LETTERS A 
 	376(4) pp:525-528
-	_pdfs/2012_pla01.pdf
+	pdfs/2012_pla01.pdf
 
 end 2012
 begin 2011
@@ -344,91 +344,91 @@ begin 2011
 	H. J. Xiang,E. J. Kan,Su-Huai Wei,M.-H. Whangbo,and X. G. Gong
 	PHYSICAL REVIEW B 
 	84 224429
-	_pdfs/2011_prb08.pdf
+	pdfs/2011_prb08.pdf
 
 	First principles study of adsorption of O(2) on Al surface with hybrid functionals
 	Liu Heng-Rui; Xiang Hongjun; Gong X. G.
 	JOURNAL OF CHEMICAL PHYSICS 
 	135 214702
-	_pdfs/2011_jcp01.pdf
+	pdfs/2011_jcp01.pdf
 
 	Predicting Two-Dimensional Boron-Carbon Compounds by the Global Optimization Method
 	Xinyu Luo,Jihui Yang,Hanyu Liu,Xiaojun Wu,Yanchao Wang,Yanming Ma,Su-Huai Wei,Xingao Gong,and Hongjun Xiang
 	J. Am. Chem. Soc. 
 	133(40),pp:16285-16290
-	_pdfs/2011_jacs02.pdf
+	pdfs/2011_jacs02.pdf
 
 	General Theory for the Ferroelectric Polarization Induced by Spin-Spiral Order
 	H. J. Xiang,E. J. Kan,Y. Zhang,M.-H. Whangbo,and X.G. Gong
 	PHYSICAL REVIEW LETTERS 
 	105 157202
-	_pdfs/2011_prl01.pdf
+	pdfs/2011_prl01.pdf
 
 	Structural diversity and electronic properties of Cu(2)SnX(3) (X = S,Se):A first-principles investigation
 	Ying-Teng Zhai,Shiyou Chen,Ji-Hui Yang,Hong-Jun Xiang,Xin-Gao Gong,Aron Walsh,
 	PHYSICAL REVIEW B 
 	84 075213
-	_pdfs/2011_prb07.pdf
+	pdfs/2011_prb07.pdf
 
 	Manipulating thermal conductivity through substrate coupling
 	Guo Zhi-Xin,Zhang Dier,Gong Xin-Gao
 	PHYSICAL REVIEW B 
 	84 075470
-	_pdfs/2011_prb06.pdf
+	pdfs/2011_prb06.pdf
 
 	Electronic localization of quantum-well states in Ag/Au(111) metallic heterostructures
 	F. Forster,E. Gergert,A. Nuber,H. Bentmann,Li Huang,X. G. Gong,Z. Zhang,and F. Reinert
 	PHYSICAL REVIEW B 
 	84 075412
-	_pdfs/2011_prb05.pdf
+	pdfs/2011_prb05.pdf
 
 	Dynamical Coupling Atomistic and Continuum Simulations
 	Guowu Ren,Dier Zhang and Xin-Gao Gong
 	Communications in Computational Physics
 	null 
-	_pdfs/2011_cicp.pdf
+	pdfs/2011_cicp.pdf
 
 	First-Principles Study of H(+) Intercalation in Layer-Structured LiCoO(2)
 	Xiao Gu,Jin-long Liu,Ji-hui Yang,Hong-jun Xiang,Xin-gao Gong,and Yong-yao Xia
 	Communications in Computational Physics 
 	null
-	_pdfs/2011_jpcc01.pdf
+	pdfs/2011_jpcc01.pdf
 
 	Band structure engineering of multinary chalcogenide topological insulators
 	Shiyou Chen,X. G. Gong,Chun-Gang Duan,Zi-Qiang Zhu,Jun-Hao Chu,Aron Walsh,Yu-Gui Yao,Jie Ma,and Su-Huai Wei
 	PHYSICAL REVIEW B
 	83 245202
-	_pdfs/2011_prb04.pdf
+	pdfs/2011_prb04.pdf
 
 	First-principles study of defect properties of zinc blende MgTe
 	Ji-Hui Yang,Shiyou Chen,Hongjun Xiang,X. G. Gong,and Su-Huai Wei
 	PHYSICAL REVIEW B
 	83 235208
-	_pdfs/2011_prb03.pdf
+	pdfs/2011_prb03.pdf
 
 	Understanding periodically twinned structure in nano-wires
 	Ying-Teng Zhai and Xin-Gao Gong
 	PHYSICS LETTERS A
 	375 1889
-	_pdfs/2011_pla01.pdf
+	pdfs/2011_pla01.pdf
 
 	Single-ion anisotropy,Dzyaloshinskii-Moriya interaction,and negative magnetoresistance the spin-1/2 pyrochlore R2V2O7
 	H. J. Xiang,E. J. Kan,M.-H. Whangbo,C. Lee,Su-Huai Wei,and X. G. Gong
 	PHYSICAL REVIEW B
 	83 174402
-	_pdfs/2011_prb02.pdf
+	pdfs/2011_prb02.pdf
 
 	Finite Temperature Properties of Clusters by Replica Exchange Metadynamics:The Water Nonamer
 	Zhai Yingteng,Alessandro Laio,Erio Tosatti,and Gong Xin-Gao
 	J. Am. Chem. Soc. 
 133 (8) pp 2535\A8C2540
-	_pdfs/2011_jacs.pdf
+	pdfs/2011_jacs.pdf
 
 	Compositional dependence of structural and electronic properties of Cu2ZnSn(S,Se)4 alloysfor thin film solar cells
 	Shiyou Chen,Aron Walsh,Ji-Hui Yang,X. G. Gong,Lin Sun,Ping-Xiong Yang,Jun-Hao Chu,and Su-Huai Wei
 	PHYSICAL REVIEW B
 	83 125201
-	_pdfs/2011_prb01.pdf
+	pdfs/2011_prb01.pdf
 
 end 2011
 begin 2010
@@ -436,71 +436,71 @@ begin 2010
 	Shiyou Chen,Aron Walsh,Ye Luo,Ji-Hui Yang,X. G. Gong,and Su-Huai Wei
 	PHYSICAL REVIEW B
 	82 195203
-	_pdfs/2010_prb05.pdf
+	pdfs/2010_prb05.pdf
 
 	 Thermodynamically stable single-side hydrogenated graphene
 	H. J. Xiang,E. J. Kan,Su-Huai Wei,X. G. Gong,and M.-H. Whangbo
 	PHYSICAL REVIEW B
 	82 165425
-	_pdfs/2010_prb04.pdf
+	pdfs/2010_prb04.pdf
 
 	hcp metal nanoclusters with hexagonal A-A bilayer stacking stabilized by enhanced covalent bonding
 	S. F. Li,Haisheng Li,Xinlian Xue,Yu Jia,Z. X. Guo,Zhenyu Zhang,and X. G. Gong
 	PHYSICAL REVIEW B
 	82 035443
-	_pdfs/2010_prb03.pdf
+	pdfs/2010_prb03.pdf
 
 	 Structural motifs in oxidized graphene:A genetic algorithm study based on density functional theory
 	Xiang Hongjun ,Wei Su-Huai,and Gong XG
 	PHYSICAL REVIEW B
 	82 035416
-	_pdfs/2010_prb02.pdf
+	pdfs/2010_prb02.pdf
 
 	The intriguing thermal conductivity of ice nanotubes
 	Guo ZX ,Zhang D,Zhai YT,and Gong XG
 	NANOTECHNOLOGY
 	21 285706
-	_pdfs/2010_nanotec1.pdf
+	pdfs/2010_nanotec1.pdf
 
 	First-principles studies for CO and O2 on gold nanocluster
 
 	Xie YP and Gong XG
 	JOURNAL OF CHEMICAL PHYSICS
 	132 244302
-	_pdfs/2010_jcp2.pdf
+	pdfs/2010_jcp2.pdf
 
 	Quantum-well states in a double-well system:an example of Cu/Co(Ni)/Cu
 
 	Xie YP,Wu YZ,and Gong XG
 	JOURNAL of PHYSICS:CONDENSED MATTER
 	22 052203
-	_pdfs/2010_jpc1.pdf
+	pdfs/2010_jpc1.pdf
 
 	Structures of [Ag-7(SR)(4)](-) and [Ag-7(DMSA)(4)](-)
 
 	Xiang HJ,Wei SH,and Gong XG
 	JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
 	132 7355 
-	_pdfs/2010_jacs1.pdf
+	pdfs/2010_jacs1.pdf
 
 	Intrinsic point defects and complexes in the quaternary kesterite semiconductor Cu2ZnSnS4
 
 	Chen SY,Yang JH,Gong XG,Aron Walsh,and Wei SH
 	PHYSICAL REVIEW B
 	81 245204
-	_pdfs/2010_prb1.pdf
+	pdfs/2010_prb1.pdf
 
 	Effective band gap narrowing of anatase TiO2 by strain along a soft crystal direction 
 	Yin WJ,Chen SY,Yang JH,Gong XG,Yang YF,and Wei SH
 	APPLIED PHYSICS LETTERS 
 	96 221901
-	_pdfs/2010_apl1.pdf
+	pdfs/2010_apl1.pdf
 
 	Defect physics of the kesterite thin-film solar cell absorber Cu2ZnSnS4 
 	Chen SY,Gong XG,Aron Walsh,and Wei SH
 	APPLIED PHYSICS LETTERS 
 	96 021902
-	_pdfs/2010_apl2.pdf
+	pdfs/2010_apl2.pdf
 
 	First-Principles Study of Small Oxidized Silver Clusters
 	Wang Y and Gong XG
@@ -512,13 +512,13 @@ begin 2010
 	Wang XF,Li Q,Lee PF,Dai JY,and Gong XG
 	MICRON 
 	41 15
-	_pdfs/2010_micron1.pdf
+	pdfs/2010_micron1.pdf
 
 	Gold cluster beyond hollow cage:A double shell structure of Au-58 
 	Dong CD and Gong XG
 	JOURNAL OF CHEMICAL PHYSICS 
 	132 104301
-	_pdfs/2010_jcp1.pdf
+	pdfs/2010_jcp1.pdf
 
 end 2010
 begin 2009
@@ -526,67 +526,67 @@ begin 2009
 	Xiang HJ,Wei SH,and Gong XG 
 	JOURNAL OF PHYSICAL CHEMISTRY C 
 	113 18968
-	_pdfs/2009_jpc1.pdf
+	pdfs/2009_jpc1.pdf
 
 	Thermal conductivity of graphene nanoribbons
 	Zhixin Guo,Dier Zhang,and Xin-Gao Gong
 	APPLIED PHYSICS LETTERS
 	95 163103
-	_pdfs/2009_apl4.pdf
+	pdfs/2009_apl4.pdf
 
 	Ordered ground state wurtzite alloys from zinc-blende parent compounds
 	Xiang HJ,Wei SH,Chen SY,and Gong XG 
 	PHYSICAL REVIEW B
 	80 113201
-	_pdfs/2009_prb3.pdf
+	pdfs/2009_prb3.pdf
 
 	Quaternary semiconductors with positive crystal field splitting:Potential high-efficiency spin-polarized electron sources
 	Chen SY,Yin WJ,Yang JH,Gong XG,Aron Walsh,and Wei SH 
 	APPLIED PHYSICS LETTERS
 	95 052102
-	_pdfs/2009_apl3.pdf
+	pdfs/2009_apl3.pdf
 
 	Energetics and electronic structure of aluminum point defects in HfO2:A first-principles study
 	Hou ZF,Gong XG,and Li Q 
 	JOURNAL of APPLIED PHYSICS
 	106 014104
-	_pdfs/2009_jap1.pdf
+	pdfs/2009_jap1.pdf
 
 	Electronic structure and phase stability of MgTe,ZnTe,CdTe,and their alloys in the B3,B4,and B8 structures
 	Yang JH,Chen SY,Yin WJ,Gong XG,Aron Walsh,and Wei SH 
 	PHYSICAL REVIEW B
 	79 245202
-	_pdfs/2009_prb2.pdf
+	pdfs/2009_prb2.pdf
 
 	Revised ab initio natural band offsets of all group IV,II-VI,and III-V semiconductors
 	Li YH,Aron Walsh,Chen SY,Yin WJ,Yang JH,Li JB,Juarez L. F. Da Silva,Gong XG,and Wei SH 
 	APPLIED PHYSICS LETTERS
 	94 212109
-	_pdfs/2009_apl2.pdf
+	pdfs/2009_apl2.pdf
 
 	Electronic structure and stability of quaternary chalcogenide semiconductors derived from cation cross-substitution of II-VI and I-III-VI2 compounds
 	Chen SY,Gong XG,Aron Walsh,and Wei SH 
 	PHYSICAL REVIEW B
 	79 165211
-	_pdfs/2009_prb1.pdf
+	pdfs/2009_prb1.pdf
 
 	Configuration dependence of the electronic structure and optical properties of BC2N alloys
 	Chen SY,Gong XG,and Wei SH 
 	PHYS. STATUS SOLIDI B 
 	246589 
-	_pdfs/2009_pss.pdf
+	pdfs/2009_pss.pdf
 
 	Crystal and electronic band structure of Cu2ZnSnX4 (X=S and Se)photovoltaic absorbers:First-principles insights
 	Chen SY,Gong XG,and Wei SH 
 	APPLIED PHYSICS LETTERS 
 	94 041903
-	_pdfs/2009_apl1.pdf
+	pdfs/2009_apl1.pdf
 
 	Hybridized kinetic energy functional for orbital-free density functional method
 	Yin WJ,Gong XG 
 	PHYSICS LETTERS A
 	373 480
-	_pdfs/2008_pla2.pdf
+	pdfs/2008_pla2.pdf
 
 end 2009
 begin 2008
@@ -594,103 +594,103 @@ begin 2008
 	Gu X,Zhang L,Gong XG,Liu ZF 
 	THE JOURNAL OF PHYSICAL CHEMISTRY B
 	112 14851 
-	_pdfs/2008_jpcb.pdf
+	pdfs/2008_jpcb.pdf
 
 	A DENSITY-FUNCTIONAL-THEORY STUDY OF MAGNETIC ANISOTROPIES OF ONE-DIMENSIONAL Ni CHAINS AND MAGNETISM OF 3D TRANSITION METALS ON Au(110)-(1X2) SURFACE
 	Fan W,Gong XG 
 	SURFACE REVIEW AND LETTERS
 	15 567
-	_pdfs/2008_srl.pdf pdf
+	pdfs/2008_srl.pdf pdf
 
 	Effects of Y doping on the structural stability and defect properties of cubic HfO2
 	Chen GH,Hou ZF,Gong XG,Li Q
 	JOURNAL OF APPLIED PHYSICS 
 	104 074101Oct 2008
-	_pdfs/2008_jap.pdf
+	pdfs/2008_jap.pdf
 
 	Structural and electronic properties of cubic HfO2 surfaces
 	Chen GH,Hou ZF,Gong XG
 	COMPUTATIONAL MATERIALS SCIENCE 
 	4446 Mar 2008
-	_pdfs/2008_cms.pdf
+	pdfs/2008_cms.pdf
 
 	No Cage,No Tube:Relative Stabilities of Nanostructures
 	Li SF,Gao L,Gong XG,Guo ZX
 	JOURNAL OF PHYSICAL CHEMISTRY C 
 	112 13200JUN 2008
-	_pdfs/2008_jpc2.pdf
+	pdfs/2008_jpc2.pdf
 
 	Origin of the unusually large band-gap bowing and the breakdown of the band-edge distribution rule in the SnxGe1-x alloys
 	Yin WJ,Gong XG,Wei SH
 	PHYSICAL REVIEW B
 	78 Art. No. 161203Jul 2008
-	_pdfs/2008_prb6.pdf
+	pdfs/2008_prb6.pdf
 
 	Magnetism enhanced layer-like structure of small cobalt clusters
 	Dong CD,Gong XG 
 	PHYSICAL REVIEW B
 	78 Art. No. 020409Jul 2008
-	_pdfs/2008_prb5.pdf
+	pdfs/2008_prb5.pdf
 
 	Peculiar distribution of Pd on Au nanoclusters:First-principles studies
 	Yuan DW,Gong XG,Wu RQ
 	PHYSICAL REVIEW B
 	78 Art. No. 035441 Jul 2008
-	_pdfs/2008_prb4.pdf
+	pdfs/2008_prb4.pdf
 
 	Finite element approximations for Schrodinger equations with applications to electronic structure computations
 	Gong XG,Shen LH,Zhang DE,Zhou AH 
 	JOURNAL OF COMPUTATIONAL MATHEMATICS 
 	26 310MAY2008 
-	_pdfs/2008_jcm1.pdf
+	pdfs/2008_jcm1.pdf
 
 	Magic number 32 and 90 in metal clusters:A shell jellium model study
 	Yin WJ,Gu X and Gong XG 
 	SOLID STATE COMMUNICATIONS 
 	147323JUN2008 
-	_pdfs/2008_ssc1.pdf
+	pdfs/2008_ssc1.pdf
 
 	Finite element method for solving Kohn-Sham equations based on self-adaptive tetrahedral mesh
 	Zhang DE,Shen LH,Zhou AH,Gong XG 
 	PHYSICS LETTERS A 
 	 372 5071 JUN2008 
-	_pdfs/2008_pla1.pdf
+	pdfs/2008_pla1.pdf
 
 	Relativistic Effects and the Unique Low-Symmetry Structures of Gold Nanoclusters
 	Huang W,Ji M,Dong CD,Gu X,Wang LM,Gong XG,and Wang LS
 	ACS NANO 
 	2 897 MAY 2008 
-	_pdfs/2008_nano1.pdf
+	pdfs/2008_nano1.pdf
 
 	Al-induced reduction of the oxygen diffusion in HfO2:an ab initio study
 	Hou ZF,Gong XG,Li Q 
 	JOURNAL OF PHYSICS-CONDENSED MATTER 
 	20Art. No. 135206APR 2008
-	_pdfs/2008_jpcm1.pdf
+	pdfs/2008_jpcm1.pdf
 
 	Pressure-induced structural transformation of CdSe nanocrystals studied with molecular dynamics
 	Ye X,SUN DY,Gong XG 
 	PHYSICAL REVIEW B
 	77 Art. No. 094108 Mar 2008
-	_pdfs/2008_prb3.pdf
+	pdfs/2008_prb3.pdf
 
 	Ground-state structure of coherent lattice-mismatched zinc-blende A(1-x)B(x)C semiconductor alloys (x=0.25 and 0.75)
 	Chen SY,Gong XG,Wei SH
 	PHYSICAL REVIEW B77 
 	Art. No. 073305Feb2008
-	_pdfs/2008_prb2.pdf
+	pdfs/2008_prb2.pdf
 
 	Crystal structures and mechanical properties of superhard BC2N and BC4N alloys:First-principles calculations
 	Chen SY,Gong XG,Wei SH
 	PHYSICAL REVIEW B77 
 	Art. No. 014113 Jan2008
-	_pdfs/2008_prb1.pdf
+	pdfs/2008_prb1.pdf
 
 	Origin of high activity and selectivity of PdAu(001) bimetallic surfaces toward vinyl acetate synthesis
 	Yuan DW,Gong XG,Wu RQ 
 	 JOURNAL OF PHYSICAL CHEMISTRY C 
 	112 1539 Feb 2008
-	_pdfs/2008_jpc1.pdf
+	pdfs/2008_jpc1.pdf
 
 end 2008
 begin 2007
@@ -698,73 +698,73 @@ begin 2007
 	Yuan,DW,Gong XG,Wu,RQ
 	PHYSICAL REVIEW B
 	75Art. No. 233401 Jun 2007
-	_pdfs/2007_prb5.pdf
+	pdfs/2007_prb5.pdf
 
 	 Band-structure anomalies of the chalcopyrite semiconductors CuGaX_2 versus AgGaX_2 (X=S and Se) and their alloys
 	Chen SY,Gong XG,Wei SH
 	PHYSICAL REVIEW B
 	75Art. No. 205209 May2007
-	_pdfs/2007_prb4.pdf
+	pdfs/2007_prb4.pdf
 
 	First-Principles Study of Adsorption and Diffusion on Ge/Si(001) and Ge/Si(105) Surfaces 
 	Huang L,Lu GH,Liu F,Gong XG
 	SURFACE SCIENCE 
 	601(14) 306715 JUL 2007
-	_pdfs/2007_sur.pdf
+	pdfs/2007_sur.pdf
 
 	Structural transitions of non-helical Au nanotubes induced by axial compression
 	Gu X,Gong XG
 	JOURNAL OF PHYSICS-CONDENSED MATTER
 	19 242205 MAY 25 2007
-	_pdfs/2007_jpcm1.pdf
+	pdfs/2007_jpcm1.pdf
 
 	Giant piezoresistance and its origin in Si(111) nanowires:First-principles calculations 
 	Cao JX,Gong XG,Wu RQ
 	PHYSICAL REVIEW B 
 	75(23) Art. No.233302JUN 142007
-	_pdfs/2007_prb3.pdf
+	pdfs/2007_prb3.pdf
 
 	Au34-:A Fluxional Core-Shell Cluster 
 	Gu X,Bulusu S,Li X,Zeng X C,Li J,Gong XG,Wang LS 
 	JOURNAL OF PHYSICAL CHEMISTRY 
 	ASAP Article 10.1021/jp071960b S1932-7447(07)01960-7 MAY 17 2007
-	_pdfs/2007_jp1.pdf
+	pdfs/2007_jp1.pdf
 
 	Evolution of a symmetry gap and synergetic quantum well states in ultrathin Ag Films on Au(111) substrates 
 	Huang L,Gong XG,Gergert E,Forster F,Bendounan A,Reinert F,Zhang Z
 	EUROPEAN PHYSICAL LETTERS 
 	78(5):57003MAY 16 2007
-	_pdfs/2007_epl1.pdf
+	pdfs/2007_epl1.pdf
 
 	Superhard Pseudocubic BC2N Superlattices
 	Chen SY,Gong XG,Wei SH
 	PHYSICAL REVIEW LETTERS 
 	98 (1):Art. No. 015502 JAN 1 2007
-	_pdfs/2007_prl1.pdf
+	pdfs/2007_prl1.pdf
 
 	A nanocontainer for the storage of hydrogen
 	Ye X,Gu X,Gong XG,Shing K M Tony,Liu ZF
 	CARBON 
 	45 (2):315-320 FEB 2007
-	_pdfs/2007_carbon1.pdf
+	pdfs/2007_carbon1.pdf
 
 	Empirical potential for the interaction between molecular hydrogen and graphite
 	Sun DY,Liu JW,Gong XG,Liu ZF
 	PHYSICAL REVIEW B 
 	75 (7):Art. No. 075424 FEB 26 2007
-	_pdfs/2007_prb2.pdf
+	pdfs/2007_prb2.pdf
 
 	Molecular dynamics study of radial pressure transmission in multiwalled carbon nanotubes
 	Ye X,Sun DY,Gong XG
 	PHYSICAL REVIEW B 
 	75 (7):Art. No. 0734406 FEB 7 2007
-	_pdfs/2007_prb1.pdf
+	pdfs/2007_prb1.pdf
 
 	Effect of Al addition on the microstructure and electronic structure of HfO2 film
 	Wang XF,Li Q,Egerton RF,Lee PF,Dai JY,Hou ZF,Gong XG
 	JOURNAL OF APPLIED PHYSICS 
 	101(1):Art. No. 013514 JAN 20 2007
-	_pdfs/2007_JApplPhys1.pdf
+	pdfs/2007_JApplPhys1.pdf
 
 end 2007
 begin 2006
@@ -772,79 +772,79 @@ begin 2006
 	Yao HY,Gu X,Ji M,Gong XG,Wang DS
 	PHYSICS LETTERS A 
 	360 (4-5):629-631 SEP 1 2006
-	_pdfs/2006_pla1.pdf
+	pdfs/2006_pla1.pdf
 
 	First-principles study of metal atoms adsorbed on SiO2 surface
 	Yao HY,Gu X,Ji M,Zhang DE,Gong XG
 	ACTA PHYSICA SINICA 
 	55 (11):6042-6046 NOV 2006
-	_pdfs/2006_aps0.pdf
+	pdfs/2006_aps0.pdf
 
 	Sharp Corners in the Cross Section of Ultrathin Si Nanowires
 	Cao JX,Gong XG,Zhong JX,Wu RQ
 	PHYSICAL REVIEW LETTERS 
 	97 (13):Art. No. 136105 SEP 27 2006
-	_pdfs/2006_prl2.pdf
+	pdfs/2006_prl2.pdf
 
 	First-principles study of interaction of cluster Au-32 with CO,H-2,and O-2
 	Wang Y,Gong XG
 	 JOURNAL OF CHEMICAL PHYSICS 1
 	25 (12):Art. No. 124703 SEP 28 2006
-	_pdfs/2006_jcp1.pdf
+	pdfs/2006_jcp1.pdf
 
 	Neutral and negatively charged Al12X (X=Si,Ge,Sn,Pb) clusters studied from first principles
 	Li SF,Gong XG
 	PHYSICAL REVIEW B 
 	74 (4):Art. No. 045432 JUL 2006
-	_pdfs/2006_prb3.pdf
+	pdfs/2006_prb3.pdf
 
 	Ab initio all-electron calculation of absolute volume deformation potentials of IV-IV,III-V,and II-VI semiconductors:The chemical trends
 	Li YH,Gong XG,Wei SH
 	PHYSICAL REVIEW B 
 	73 (24):Art. No. 245206 JUN 2006
-	_pdfs/2006_prb2.pdf
+	pdfs/2006_prb2.pdf
 
 	Phenomenological band structure model of magnetic coupling in semiconductors
 	Dalpian GA,Wei SH,Gong XG,da Silva AJR,Fazzio A
 	SOLID STATE COMMUNICATIONS 
 	138 (7):353-358 2006
-	_pdfs/2006_ssc1.pdf
+	pdfs/2006_ssc1.pdf
 
 	Ab initio studies on the reaction of O-2 with Ba-n (n=2,5) clusters
 	Li SF,Xue X,Chen G,Yuan DW,Jia Y,Gong XG
 	JOURNAL OF CHEMICAL PHYSICS 
 	124 (22):Art. No. 224711 JUN 14 2006
-	_pdfs/2006_jcp0.pdf
+	pdfs/2006_jcp0.pdf
 
 	Effects of Al addition on the native defects in hafnia
 	Li Q,Koo KM,Lau WM,Lee PF,Dai JY,Hou ZF,Gong XG
 	APPLIED PHYSICS LETTERS 
 	88 (18):Art. No. 182903 MAY 1 2006
-	_pdfs/2006_apl2.pdf
+	pdfs/2006_apl2.pdf
 
 	Stable cubic metal-semiconductor alloy clusters:X4Y4 (X=Cu,Ag,Au,Ti; Y=C,Si)
 	Li SF,Xue XL,Jia Y,Zhao GF,Zhang MF,Gong XG
 	PHYSICAL REVIEW B 
 	73 (16):Art. No. 165401 APR 2006
-	_pdfs/2006_prb1.pdf
+	pdfs/2006_prb1.pdf
 
 	Structural and electronic properties of Al7In (n=1,2,3)
 	Wei SH,Huang L,Ji M,Gong XG
 	CHEMICAL PHYSICS LETTERS 
 	420 (1-3):125-129 MAR 10 2006
-	_pdfs/2006_cpl1.pdf
+	pdfs/2006_cpl1.pdf
 
 	Ab initio calculation of hydrostatic absolute deformation potential of semiconductors
 	Li YH,Gong XG,Wei SH
 	APPLIED PHYSICS LETTERS 
 	88 (4):Art. No. 042104 JAN 23 2006
-	_pdfs/2006_apl1.pdf
+	pdfs/2006_apl1.pdf
 
 	Surface mobility difference between Si and Ge and its effect on growth of SiGe alloy films and islands
 	Huang L,Liu F,Lu GH,Gong XG
 	PHYSICAL REVIEW LETTERS 
 	96 (1):Art. No. 016103 JAN 13 2006
-	_pdfs/2006_prl1.pdf
+	pdfs/2006_prl1.pdf
 
 end 2006
 begin 2005
@@ -852,49 +852,49 @@ begin 2005
 	Ji M,Gu X,Li X,Gong XG,Li J,Wang LS
 	ANGEWANDTE CHEMIE-INTERNATIONAL EDITION 
 	44 (43):7119-7123 2005
-	_pdfs/2005_acie.pdf
+	pdfs/2005_acie.pdf
 
 	Adsorption,segregation,and magnetization of a single Mn adatom on the GaAs(110) surface
 	Cao JX,Gong XG,Wu RQ
 	PHYSICAL REVIEW B 
 	72 (15):Art. No. 153410 OCT 2005
-	_pdfs/2005_prb5.pdf
+	pdfs/2005_prb5.pdf
 
 	Superheated melting of grain boundaries
 	Fan W,Gong XG
 	PHYSICAL REVIEW B 
 	72 (6):Art. No. 064121 AUG 2005
-	_pdfs/2005_prb4.pdf
+	pdfs/2005_prb4.pdf
 
 	Theoretical study of the adsorption of H-2 on (3,3) carbon nanotubes
 	Chen G,Gong XG,Chan CT
 	PHYSICAL REVIEW B 
 	72 (4):Art. No. 045444 JUL 2005
-	_pdfs/2005_prb3.pdf
+	pdfs/2005_prb3.pdf
 
 	Pressure-induced structural transition of double-walled carbon nanotubes
 	Ye X,Sun DY,Gong XG
 	PHYSICAL REVIEW B 
 	72 (3):Art. No. 035454 JUL 2005
-	_pdfs/2005_prb2.pdf
+	pdfs/2005_prb2.pdf
 
 	First-principles study of neutral and charged silver clusters
 	Wang Y,Gong XG
 	EUROPEAN PHYSICAL JOURNAL D 
 	34 (1-3):19-22 JUL 2005
-	_pdfs/2005_epj1.pdf
+	pdfs/2005_epj1.pdf
 
 	First-principles studies on the reactions of O-2 with silicon clusters
 	Li SF,Gong XG
 	JOURNAL OF CHEMICAL PHYSICS 
 	122 (17):Art. No. 174311 MAY 1 2005
-	_pdfs/2005_jcp1.pdf
+	pdfs/2005_jcp1.pdf
 
 	First-principles study of Mn-induced local magnetic moments in host semiconductors
 	Wei SH,Gong XG,Dalpian GM,Wei SH
 	PHYSICAL REVIEW B 71 
 	(14):Art. No. 144409 APR 2005
-	_pdfs/2005_prb1.pdf
+	pdfs/2005_prb1.pdf
 
 end 2005
 begin 2004
@@ -902,140 +902,140 @@ begin 2004
 	Gu X,Ji M,Wei SH,Gong XG
 	PHYSICAL REVIEW B 
 	70 (20):Art. No. 205401 NOV 2 2004
-	_pdfs/2004_prb8.pdf
+	pdfs/2004_prb8.pdf
 
 	Pressure-induced hard-to-soft transition of a single carbon nanotube
 	Sun DY,Shu DJ,Ji M,Liu F,Wang M,Gong XG
 	PHYSICAL REVIEW B 
 	70 (16):Art. No. 165417 OCT 22 2004
-	_pdfs/2004_prb7.pdf
+	pdfs/2004_prb7.pdf
 
 	Strain effect on adatom binding and diffusion in homo- and heteroepitaxies of Si and Ge on (001) surfaces
 	Huang L,Liu F,Gong XG
 	PHYSICAL REVIEW B 
 	70 (15):Art. No. 155320 OCT 22 2004
-	_pdfs/2004_prb6.pdf
+	pdfs/2004_prb6.pdf
 
 	Structures and Properties of Ni Nanowires
 	Zhang HY,Gu X,Zhang XH,Ye X,Gong XG
 	PHYSICS LETTERS A 
 	331 (5):332-336 OCT 25 2004
-	_pdfs/2004_pla1.pdf
+	pdfs/2004_pla1.pdf
 
 	Comment on "Collapse of single-wall carbon nanotubes is diameter dependent"
 	Zhang XH,Liu ZF,Gong XG
 	PHYSICAL REVIEW LETTERS 
 	93 (14):Art. No. 149601 OCT 1 2004
-	_pdfs/2004_prl1.pdf
+	pdfs/2004_prl1.pdf
 
 	Size-dependent periodically twinned ZnSe nanowires
 	Li Q,Gong XG,Wang CR,Wang J,Ip K,Hark S
 	ADVANCED MATERIALS 
 	16 (16):1436-1440 AUG 18 2004
-	_pdfs/2004_a_m1.pdf
+	pdfs/2004_a_m1.pdf
 
 	Charge-induced structural changes in Al12C clusters
 	Li SF,Gong XG
 	PHYSICAL REVIEW B 
 	70 (7):Art. No. 075404 AUG 2004
-	_pdfs/2004_prb5.pdf
+	pdfs/2004_prb5.pdf
 
 	Monte Carlo simulation of surface de-alloying of Au/Ni(110)
 	Fan W,Gong XG
 	SURFACE SCIENCE 
 	562 (1-3):219-225 AUG 1 2004
-	_pdfs/2004_ss_1.pdf
+	pdfs/2004_ss_1.pdf
 
 	Structure and phase transitions of single-wall carbon nanotube bundles under hydrostatic pressure
 	Zhang XH,Sun DY,Liu ZF,Gong XG
 	PHYSICAL REVIEW B 
 	70 (3):Art. No. 035422 JUL 2004
-	_pdfs/2004_prb4.pdf
+	pdfs/2004_prb4.pdf
 
 	Adsorption of a carbon atom on the Ni38 magic cluster and three low-index nickel surfaces:A comparative first-principles study
 	Zhang QM,Wells JC,Gong XG,Zhang ZY
 	PHYSICAL REVIEW B 
 	69 (20):Art. No. 205413 MAY 2004
-	_pdfs/2004_prb3.pdf
+	pdfs/2004_prb3.pdf
 
 	Ab initio study on structural and electronic properties of BanOm clusters
 	Chen G,Liu ZF,Gong XG
 	JOURNAL OF CHEMICAL PHYSICS 
 	120 (17):8020-8024 MAY 1 2004
-	_pdfs/2004_jcp1.pdf
+	pdfs/2004_jcp1.pdf
 
 	Ab initio molecular dynamics simulation on nano-system under external pressure
 	Ji M,Sun DY,Gong XG
 	SCIENCE IN CHINA SERIES A-MATHEMATICS 
 	47:92-100 Suppl. S APR 2004
-	_pdfs/2004_SIC2.pdf
+	pdfs/2004_SIC2.pdf
 
 	Teracluster LSSC-II:Its designing principles and applications in large scale numerical simulations
 	Zhang LB,Chen SY,Li XL,Cao JW,Zhang WS,Gong XG
 	SCIENCE IN CHINA SERIES A-MATHEMATICS 
 	47:53-68 Suppl. S APR 2004
-	_pdfs/2004_SIC1.pdf
+	pdfs/2004_SIC1.pdf
 
 	Computational design of carbon nanotube electromechanical pressure sensors
 	Wu J,Zang J,Larade B,Guo H,Gong XG,Liu F
 	PHYSICAL REVIEW B 
 	69 (15):Art. No. 153406 APR 2004
-	_pdfs/2004_prb2.pdf
+	pdfs/2004_prb2.pdf
 
 	Ab initio molecular dynamics simulation on temperature-dependent properties of Al-Si liquid alloy
 	Ji M,Gong XG
 	JOURNAL OF PHYSICS-CONDENSED MATTER 
 	16 (15):2507-2514 APR 21 2004
-	_pdfs/2004_jpc1.pdf
+	pdfs/2004_jpc1.pdf
 
 	Pressure-driven confinement of hydrogen molecules between graphene sheets in the regime of van der Waals repulsion
 	Chan SP,Ji M,Gong XG,Liu ZF
 	PHYSICAL REVIEW B 
 	69 (9):Art. No. 092101 MAR 5 2004
-	_pdfs/2004_prb1.pdf
+	pdfs/2004_prb1.pdf
 end 2004
 begin 2003
 	Relative stability of missing-row reconstructed (110) surfaces of noble metals
 	Nduwimana A,Gong XG,Wang XQ
 	APPLIED SURFACE SCIENCE 
 	219 (1-2):129-135 OCT 15 2003
-	_pdfs/2003_ass2.pdf
+	pdfs/2003_ass2.pdf
 
 	Simulation of Ni cluster diffusion on Au(110)-(1 x 2) surface
 	Fan W,Gong XG
 	APPLIED SURFACE SCIENCE 
 	219 (1-2):117-122 OCT 15 2003
-	_pdfs/2003_ass1.pdf
+	pdfs/2003_ass1.pdf
 
 	Carbon nanotube bundles under high pressure:Transformation to low-symmetry structures
 	Chan SP,Yim WL,Gong XG,Liu ZF
 	PHYSICAL REVIEW B 68 
 	(7):Art. No. 075404 AUG 15 2003
-	_pdfs/2003_prb2.pdf
+	pdfs/2003_prb2.pdf
 
 	Chemisorption of NO2 on carbon nanotubes
 	Yim WL,Gong XG,Liu ZF
 	JOURNAL OF PHYSICAL CHEMISTRY B 
 	107 (35):9363-9369 SEP 4 2003
-	_pdfs/2003_jpc1.pdf
+	pdfs/2003_jpc1.pdf
 
 	Structural transition in BanOm clusters
 	Chen G,Liu ZF,Gong XG
 	PHYSICAL REVIEW B 67 
 	(20):art. no. 205415 MAY 15 2003
-	_pdfs/2003_prb1.pdf
+	pdfs/2003_prb1.pdf
 
 	Local bias potential in hyper molecular dynamics method
 	Duan XM,Gong XG
 	COMPUTATIONAL MATERIALS SCIENCE 
 	27 (3):375-380 MAY 2003
-	_pdfs/2003_cms1.pdf
+	pdfs/2003_cms1.pdf
 
 	Oxidation of carbon nanotubes by singlet O-2
 	Chan SP,Chen G,Gong XG,Liu ZF
 	PHYSICAL REVIEW LETTERS 
 	90 (8):art. no. 086403 FEB 28 2003
-	_pdfs/2003_prl1.pdf
+	pdfs/2003_prl1.pdf
 
 end 2003
 begin 2002
@@ -1043,31 +1043,31 @@ begin 2002
 	Fan W,Gong XG,Lau WM
 	PHYSICAL REVIEW B 
 	66 (11):art. no. 115418 SEP 15 2002
-	_pdfs/2002_prb1.pdf
+	pdfs/2002_prb1.pdf
 
 	A new constant-pressure molecular dynamics method for finite systems
 	Sun DY,Gong XG
 	JOURNAL OF PHYSICS-CONDENSED MATTER 
 	14 (26):L487-L493 JUL 8 2002
-	_pdfs/2002_jpc1.pdf
+	pdfs/2002_jpc1.pdf
 
 	Local strain induced anisotropic diffusion on (23x root 3)-Au(111) surface
 	Liu YB,Sun DY,Gong XG
 	SURFACE SCIENCE 
 	498 (3):337-342 FEB 10 2002
-	_pdfs/2002_ss_1.pdf
+	pdfs/2002_ss_1.pdf
 
 	Structures and stability of Al7C and Al7N clusters
 	Sun Q,Wang Q,Gong XG,Kumar V,Kawazoe Y
 	EUROPEAN PHYSICAL JOURNAL D 
 	18 (1):77-81 JAN 2002
-	_pdfs/2002_epj1.pdf
+	pdfs/2002_epj1.pdf
 
 	Structure and growth modes of (BaO)(n) (n <= 9) clusters
 	Chen G,Liu ZF,Gong XG
 	JOURNAL OF CHEMICAL PHYSICS 
 	116 (4):1339-1342 JAN 22 2002
-	_pdfs/2002_jcp1.pdf
+	pdfs/2002_jcp1.pdf
 
 end 2002
 begin 2001
@@ -1075,49 +1075,49 @@ begin 2001
 	Shu DJ,Liu F,Gong XG
 	PHYSICAL REVIEW B 
 	64 (24):art. no. 245410 DEC 15 2001
-	_pdfs/2001_prb2.pdf
+	pdfs/2001_prb2.pdf
 
 	Chemisorption of hydrogen molecules on carbon nanotubes under high pressure
 	Chan SP,Chen G,Gong XG,Liu ZF
 	PHYSICAL REVIEW LETTERS 
 	87 (20):art. no. 205502 NOV 12 2001
-	_pdfs/2001_prl1.pdf
+	pdfs/2001_prl1.pdf
 
 	Structures and its evolution of Ba-n (n=2 similar to 14) clusters
 	Chen G,Liu ZF,Gong XG
 	EUROPEAN PHYSICAL JOURNAL D 
 	16 (1-3):33-36 SEP 2001
-	_pdfs/2001_epj1.pdf
+	pdfs/2001_epj1.pdf
 
 	Curvature effect on surface diffusion:The nanotube
 	Shu DJ,Gong XG
 	JOURNAL OF CHEMICAL PHYSICS 
 	114 (24):10922-10926 JUN 22 2001
-	_pdfs/2001_jcp1.pdf
+	pdfs/2001_jcp1.pdf
 
 	Electronic structure and magnetic properties of Ni clusters
 	Duan HM,Gong XG,Zheng QQ,Lin HQ
 	JOURNAL OF APPLIED PHYSICS 
 	89 (11):7308-7310,Part 2 JUN 1 2001
-	_pdfs/2001_jap1.pdf
+	pdfs/2001_jap1.pdf
 
 	Soft and hard shells in metallic nanocrystals
 	Sun DY,Gong XG,Wang XQ
 	PHYSICAL REVIEW B 
 	63 (19):art. no. 193412 MAY 15 2001
-	_pdfs/2001_prb1.pdf
+	pdfs/2001_prb1.pdf
 
 	Hypermolecular dynamics simulations of monovacancy diffusion
 	Duan XM,Sun DY,Gong XG
 	COMPUTATIONAL MATERIALS SCIENCE 
 	20 (2):151-156 FEB 2001
-	_pdfs/2001_cms1.pdf
+	pdfs/2001_cms1.pdf
 
 	Metallic coverings of calcium on C-60
 	Gong XG,Kumar V
 	CHEMICAL PHYSICS LETTERS 
 	334 (4-6):238-244 FEB 9 2001
-	_pdfs/2001_cpl1.pdf
+	pdfs/2001_cpl1.pdf
 
 end 2001
 begin 2000
@@ -1125,43 +1125,43 @@ begin 2000
 	Sun Q,Wang Q,Parlinski K,Yu JZ,Hashi Y,Gong XG,Kawazoe Y
 	PHYSICAL REVIEW B 
 	62 (23):16176-16176 DEC 15 2000
-	_pdfs/2000_prb4.pdf
+	pdfs/2000_prb4.pdf
 
 	Atomic and electronic shells of Al-77
 	Gong XG,Sun DY,Wang XQ
 	PHYSICAL REVIEW B 
 	62 (23):15413-15416 DEC 15 2000
-	_pdfs/2000_prb3.pdf
+	pdfs/2000_prb3.pdf
 
 	A density-functional study of small titanium clusters
 	Wei SH,Zeng Z,You JQ,Yan XH,Gong XG
 	JOURNAL OF CHEMICAL PHYSICS 
 	113 (24):11127-11133 DEC 22 2000
-	_pdfs/2000_jcp1.pdf
+	pdfs/2000_jcp1.pdf
 
 	Efficiency of generalized simulated annealing
 	Xiang Y,Gong XG
 	PHYSICAL REVIEW E 
 	62 (3):4473-4476,Part B SEP 2000
-	_pdfs/2000_pre1.pdf
+	pdfs/2000_pre1.pdf
 
 	\CDƹ\E3ģ\C4\E2\CD˻𷽷\A8\BC\B0\C6\E4Ӧ\D3\C3
 	Xiang Y,Gong XG
 	\CE\EF\C0\EDѧ\BD\F8չ(PROGRESS IN PHYSICS) 
 	20 (3):319-334 SEP 2000
-	_pdfs/2000_pip1.pdf
+	pdfs/2000_pip1.pdf
 
 	Electronic structure of cluster-assembled Al12C (Si) solid
 	Quan HJ,Gong XG
 	CHINESE PHYSICS 
 	9 (9):656-660 SEP 2000
-	_pdfs/2000_c_p0.pdf
+	pdfs/2000_c_p0.pdf
 
 	Surface trapping of hyperthermal particles:A molecular dynamics simulation
 	Duan XM,Gong XG
 	PHYSICA STATUS SOLIDI B-BASIC RESEARCH 
 	220 (2):869-874 AUG 2000
-	_pdfs/2000_pss1.pdf
+	pdfs/2000_pss1.pdf
 
 	Deposition of small clusters on surface:A molecular dynamics simulation
 	Duan XM,Gong XG
@@ -1173,25 +1173,25 @@ begin 2000
 	Xiang Y,Sun DY,Gong XG
 	JOURNAL OF PHYSICAL CHEMISTRY A 
 	104 (12):2746-2751 MAR 30 2000
-	_pdfs/2000_jpc1.pdf
+	pdfs/2000_jpc1.pdf
 
 	First-principles studies on the intrinsic stability of the magic Fe13O8 cluster
 	Sun Q,Wang Q,Parlinski K,Yu JZ,Hashi Y,Gong XG,Kawazoe Y
 	PHYSICAL REVIEW B 
 	61 (8):5781-5785 FEB 15 2000
-	_pdfs/2000_prb2.pdf
+	pdfs/2000_prb2.pdf
 
 	Electronic structure study of the magnetoresistance material CaCu3Mn4O12 by LSDA and LSDA+U
 	Wu H,Zheng QQ,Gong XG
 	PHYSICAL REVIEW B 
 	61 (8):5217-5222 FEB 15 2000
-	_pdfs/2000_prb1.pdf
+	pdfs/2000_prb1.pdf
 
 	Cluster on the fcc(111) surface:structure,stability and diffusion
 	Sun DY,Gong XG
 	SURFACE SCIENCE 
 	445 (1):41-48 JAN 10 2000
-	_pdfs/2000_ss_1.pdf
+	pdfs/2000_ss_1.pdf
 
 end 2000
 begin 1999
@@ -1199,37 +1199,37 @@ begin 1999
 	Fan W,Gong XG,Lau WM
 	PHYSICAL REVIEW B 
 	60 (15):10727-10730 OCT 15 1999
-	_pdfs/1999_prb2.pdf
+	pdfs/1999_prb2.pdf
 
 	A molecular-dynamics study of the anisotropic surface-melting properties of Al(110)
 	Shu DJ,Sun DY,Gong XG,Lau WM
 	SURFACE SCIENCE 
 	441 (1):206-212 OCT 20 1999
-	_pdfs/1999_ss_1.pdf
+	pdfs/1999_ss_1.pdf
 
 	Interatomic potential fitted for lead
 	Sun DY,Xiang Y,Gong XG
 	PHILOSOPHICAL MAGAZINE A-PHYSICS OF CONDENSED MATTER STRUCTURE DEFECTS AND MECHANICAL PROPERTIES 
 	79 (8):1953-1961 AUG 1999
-	_pdfs/1999_pma2.pdf
+	pdfs/1999_pma2.pdf
 
 	The electronic structure of CaCuO2 and SrCuO2
 	Wu H,Zheng QQ,Gong XG,Lin HQ
 	JOURNAL OF PHYSICS-CONDENSED MATTER 
 	11 (24):4637-4646 JUN 21 1999
-	_pdfs/1999_jpc1.pdf
+	pdfs/1999_jpc1.pdf
 
 	Molecular dynamics study on the structural changes of the tilt grain boundary in aluminium
 	Fan W,He YZ,Gong XG
 	PHILOSOPHICAL MAGAZINE A-PHYSICS OF CONDENSED MATTER STRUCTURE DEFECTS AND MECHANICAL PROPERTIES 
 	79 (6):1321-1333 JUN 1999
-	_pdfs/1999_pma1.pdf
+	pdfs/1999_pma1.pdf
 
 	Hyper molecular dynamics with a local bias potential
 	Gong XG,Wilkins JW
 	PHYSICAL REVIEW B 
 	59 (1):54-57 JAN 1 1999
-	_pdfs/1999_prb1.pdf
+	pdfs/1999_prb1.pdf
 
 end 1999
 begin 1998
@@ -1237,19 +1237,19 @@ begin 1998
 	Wang SY,Zou LJ,Gong XG,Zheng QQ,Lin HQ
 	JOURNAL OF APPLIED PHYSICS 
 	83 (11):7100-7102,Part 2 JUN 1 1998
-	_pdfs/1998_jap1.pdf
+	pdfs/1998_jap1.pdf
 
 	Different melting behavior of lead surfaces
 	Sun DY,Shu DJ,Gong XG,Lau LWM
 	SOLID STATE COMMUNICATIONS 
 	108 (6):383-387 1998
-	_pdfs/1998_ssc1.pdf
+	pdfs/1998_ssc1.pdf
 
 	Structural properties and glass transition in Al-n clusters
 	Sun DY,Gong XG
 	PHYSICAL REVIEW B 
 	57 (8):4730-4735 FEB 15 1998
-	_pdfs/1998_prb1.pdf
+	pdfs/1998_prb1.pdf
 
 end 1998
 begin 1997
@@ -1257,25 +1257,25 @@ begin 1997
 	Sun DY,Gong XG
 	JOURNAL OF PHYSICS-CONDENSED MATTER 
 	9 (48):10555-10565 DEC 1 1997
-	_pdfs/1997_jpc1.pdf
+	pdfs/1997_jpc1.pdf
 
 	Generalized simulated annealing algorithm and its application to the Thomson model
 	Xiang Y,Sun DY,Fan W,Gong XG
 	PHYSICS LETTERS A 
 	233 (3):216-220 AUG 25 1997
-	_pdfs/1997_pla1.pdf
+	pdfs/1997_pla1.pdf
 
 	Structure and dynamic properties of neutral and ionized SiH5 and Si2H3
 	Gong XG,Guenzburger D,Saitovitch EB
 	CHEMICAL PHYSICS LETTERS 
 	275 (3-4):392-398 AUG 29 1997
-	_pdfs/1997_cpl1.pdf
+	pdfs/1997_cpl1.pdf
 
 	Structure and stability of cluster-assembled solid Al12C(Si):A first-principles study
 	Gong XG
 	 PHYSICAL REVIEW B 
 	56 (3):1091-1094 JUL 15 1997
-	_pdfs/1997_prb1.pdf
+	pdfs/1997_prb1.pdf
 
 	Local magnetism in nanoscale metallic grains
 	Zou LJ,Zheng QQ,Gong XG
@@ -1288,7 +1288,7 @@ begin 1996
 	Sun DY,Gong XG
 	PHYSICAL REVIEW B 
 	54 (23):17051-17056 DEC 15 1996
-	_pdfs/1996_prb2.pdf
+	pdfs/1996_prb2.pdf
 
 	Molecular dynamics on the liquid silicon
 	Sun DY,Gong XG
@@ -1306,31 +1306,31 @@ begin 1996
 	Sun Q,Gong XG,Zheng QQ,Sun DY,Wang GH
 	PHYSICAL REVIEW B 
 	54 (15):10896-10904 OCT 15 1996
-	_pdfs/1996_prb1.pdf
+	pdfs/1996_prb1.pdf
 
 	The magnetic properties of Fe-3 TMB clusters
 	Sun Q,Gong XG,Zheng QQ,Wang GH
 	PHYSICA B 
 	222 (1-3):247-251 MAY 1996
-	_pdfs/1996_p_b1.pdf
+	pdfs/1996_p_b1.pdf
 
 	Giant magnetoresistance induced by spin-correlation scattering in magnetic thin films and other compounds
 	Zou LJ,Gong XG,Zheng QQ,Pan CY
 	JOURNAL OF APPLIED PHYSICS 
 	79 (8):5162-5164,Part 2A APR 15 1996
-	_pdfs/1996_jap1.pdf
+	pdfs/1996_jap1.pdf
 
 	The structures and magnetic properties of small FenB clusters
 	Sun Q,Gong XG,Zheng QQ,Wang GH
 	JOURNAL OF PHYSICS-CONDENSED MATTER 
 	8 (11):1805-1810 MAR 11 1996
-	_pdfs/1996_jpc1.pdf
+	pdfs/1996_jpc1.pdf
 
 	The magnetic properties of 4d impurities in Ag-n clusters
 	Sun Q,Gong XG,Zheng QQ,Wang GH
 	SOLID STATE COMMUNICATIONS 
 	97 (5):429-433 FEB 1996
-	_pdfs/1996_ssc1.pdf
+	pdfs/1996_ssc1.pdf
 
 	The formation of local magnetism in clusters
 	Sun Q,Gong XG,Zheng QQ,Wang GH
@@ -1342,7 +1342,7 @@ begin 1996
 	Sun Q,Gong XG,Zheng QQ,Wang GH
 	ACTA PHYSICA SINICA 
 	45:1146 1996
-	_pdfs/1996_aps0.pdf
+	pdfs/1996_aps0.pdf
 
 end 1996
 begin 1995
@@ -1350,13 +1350,13 @@ begin 1995
 	Sun Q,Gong XG,Zheng QQ,Wang GH
 	PHYSICS LETTERS A 
 	209 (3-4):249-253 DEC 18 1995
-	_pdfs/1995_pla1.pdf
+	pdfs/1995_pla1.pdf
 
 	Stability and electronic-properties of nanoscale silicon clusters
 	Gong XG
 	PHYSICAL REVIEW B 
 	52 (20):14677-14681 NOV 15 1995
-	_pdfs/1995_prb2.pdf
+	pdfs/1995_prb2.pdf
 
 	Size-dependence of the local magnetic-moments in finite system
 	Zou LJ,Gong XG,Zheng QQ,Pan CY
@@ -1368,31 +1368,31 @@ begin 1995
 	Gong XG,Zheng QQ
 	PHYSICAL REVIEW B 
 	52 (7):4756-4759 AUG 15 1995
-	_pdfs/1995_prb1.pdf
+	pdfs/1995_prb1.pdf
 
 	Ab-initio molecular-dynamics studies of a Ga-13 cluster
 	Gong XG,Zheng QQ,Han RS
 	SOLID STATE COMMUNICATIONS 
 	94 (9):735-739 JUN 1995
-	_pdfs/1995_ssc1.pdf
+	pdfs/1995_ssc1.pdf
 
 	Local spin-density electronic-structures and magnetic-properties of small iron clusters
 	Gong XG,Zheng QQ
 	JOURNAL OF PHYSICS-CONDENSED MATTER 
 	7 (12):2421-2428 MAR 20 1995
-	_pdfs/1995_jpc2.pdf
+	pdfs/1995_jpc2.pdf
 
 	Structural-properties of silicon clusters - an empirical potential study
 	Gong XG,Zheng QQ,He YZ
 	JOURNAL OF PHYSICS-CONDENSED MATTER 
 	7 (3):577-584 JAN 16 1995
-	_pdfs/1995_jpc1.pdf
+	pdfs/1995_jpc1.pdf
 
 	Structure and properties of liquid gallium at high pressure
 	Gong XG
 	ACTA PHYSICA SINICA 
 	44:885 1995
-	_pdfs/1995_aps0.pdf
+	pdfs/1995_aps0.pdf
 
 	Electronic structure and relative stability of icosahedral clusters in aluminum-transition metal quasicrystal and approximates
 	Gong XG,Kumar V
@@ -1406,13 +1406,13 @@ begin 1994
 	Gong XG,Kumar V
 	PHYSICAL REVIEW B 
 	50 (23):17701-17704 DEC 15 1994
-	_pdfs/1994_prb1.pdf
+	pdfs/1994_prb1.pdf
 
 	Cluster model studies on the electronic and magnetic properties of LaCo13 and La(FexAl1-x)(13) alloys
 	Zhang GW,Gong XG,Zheng QQ,Zhao JG
 	JOURNAL OF APPLIED PHYSICS 
 	76 (10):7037-7039,Part 2 NOV 15 1994
-	_pdfs/1994_jap1.pdf
+	pdfs/1994_jap1.pdf
 
 end 1994
 begin 1993
@@ -1432,7 +1432,7 @@ begin 1993
 	Gong XG,Kumar V
 	PHYSICAL REVIEW LETTERS 
 	70 (14):2078-2081 APR 5 1993
-	_pdfs/1993_prl1.pdf
+	pdfs/1993_prl1.pdf
 
 	Coexistence of monatomic and diatomic molecular fluid character in liquid gallium
 	Gong XG,Chiarotti GL,Parrinello M,Tosatti E
@@ -1450,19 +1450,19 @@ begin 1993
 	Gong XG
 	PHYSICAL REVIEW B 
 	47 (4):2329-2332 JAN 15 1993
-	_pdfs/1993_prb1.pdf
+	pdfs/1993_prb1.pdf
 
 	Electronic structure of solid gallium
 	Gong XG
 	ACTA PHYSICA SINICA 
 	42:619 1993
-	_pdfs/1993_aps1.pdf
+	pdfs/1993_aps1.pdf
 
 	Ab initio molecular-dynamics studies on the gallium clusters
 	Gong XG,Zheng QQ
 	ACTA PHYSICA SINICA 
 	42:244 1993
-	_pdfs/1993_aps0.pdf
+	pdfs/1993_aps0.pdf
 
 	Pressure induced hole redistribution in YBCO
 	Gong XG,Pan W,Zheng QQ
@@ -1496,7 +1496,7 @@ begin 1991
 	Gong XG,Chiarotti GL,Parrinello M,Tosatti E
 	PHYSICAL REVIEW B 
 	43 (17):14277-14280 JUN 15 1991
-	_pdfs/1991_prb1.pdf
+	pdfs/1991_prb1.pdf
 
 end 1991
 begin Before 1990
@@ -1504,13 +1504,13 @@ begin Before 1990
 	Gong XG,Zeng Z,Zheng QQ
 	JOURNAL OF PHYSICS-CONDENSED MATTER 
 	1 (41):7577-7582 OCT 16 1989
-	_pdfs/1989_jpc2.pdf
+	pdfs/1989_jpc2.pdf
 
 	The electronic structure of the surface of the superconductor YBa2Cu3O7
 	Gong XG,Zheng QQ
 	JOURNAL OF PHYSICS-CONDENSED MATTER 
 	1 (3):593-598 JAN 23 1989
-	_pdfs/1989_jpc1.pdf
+	pdfs/1989_jpc1.pdf
 
 	A theoretical study of electronic structure for twin stacking faults in silicon
 	Gong XG,Zheng QQ,Han RS
