@@ -1,26 +1,4 @@
-<!-- JS -->
-<script src="js1/jquery-1.7.1.min.js"></script>
-<script src="js1/custom.js"></script>
-<script src="js1/jquery.columnizer.min.js"></script>
-<!-- Isotope -->
-<script src="js1/jquery.isotope.min.js"></script>
-<link rel="stylesheet" media="all" href="css/aa.css" />
-<!-- Lof slider -->
-<script src="js1/jquery.easing.js"></script>
-<script src="js1/lof-slider.js"></script>
 <link rel="stylesheet" href="css1/lof-slider.css" media="all" />
-<!-- ENDS slider -->
-<!-- superfish -->
-<link rel="stylesheet" media="screen" href="css1/superfish.css" />
-<script src="js1/superfish-1.4.8/js/hoverIntent.js"></script>
-<script src="js1/superfish-1.4.8/js/superfish.js"></script>
-<script src="js1/superfish-1.4.8/js/supersubs.js"></script>
-<!-- ENDS superfish -->
-<!-- JCarousel -->
-<script type="text/javascript" src="js1/jquery.jcarousel.min.js"></script>
-<!-- ENDS JCarousel -->
-<!-- flexslider -->
-<script src="js1/jquery.flexslider.js"></script>
 <!-- MAIN -->
 <div id="main">
   <div class="wrapper clearfix">
@@ -72,39 +50,6 @@
     {
       location.href = 'ysq.php';
     });
-
-    function refresh()
-    {
-      //##########################################
-      // Filter - Isotope 
-      //##########################################
-      var $container = $('#filter-container');
-      $container.imagesLoaded(function()
-      {
-        $container.isotope(
-        {
-          itemSelector: 'figure',
-          filter: '*',
-          resizable: false,
-          animationEngine: 'jquery'
-        });
-      });
-      // filter buttons
-      $('#filter-buttons a').click(function()
-      {
-        // select current
-        var $optionSet = $(this).parents('#filter-buttons');
-        $optionSet.find('.selected').removeClass('selected');
-        $(this).addClass('selected');
-        var selector = $(this).attr('data-filter');
-        $container.isotope(
-        {
-          filter: selector
-        });
-        return false;
-      });
-      setTimeout(refresh, 1000)
-    }
     </script>
   </div>
 </div>

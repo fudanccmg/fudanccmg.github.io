@@ -11,7 +11,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!-- Adding "maximum-scale=1" fixes the Mobile Safari auto-zoom bug: http://filamentgroup.com/examples/iosScaleBug/ -->
   <!-- JS -->
-  <script src="js/jquery-1.6.4.min.js"></script>
+  <script src="js/jquery-1.7.1.min.js"></script>
   <script src="js/css3-mediaqueries.js"></script>
   <script src="js/custom.js"></script>
   <script src="js/tabs.js"></script>
@@ -51,9 +51,15 @@
   <script src="js/moveform.js"></script>
   <script src="https://cdn.bootcss.com/angular.js/1.4.0/angular.min.js"></script>
   <script src="https://cdn.bootcss.com/angular.js/1.4.0/angular-route.min.js"></script>
-  <script type="text/javascript" src="js/jquery.min.js"></script>
   <script type="text/javascript" src="js/flexpaper.js"></script>
   <script type="text/javascript" src="js/flexpaper_handlers.js"></script>
+  <script src="js/jquery.columnizer.min.js"></script>
+  <!-- Isotope -->
+  <script src="js/jquery.isotope.min.js"></script>
+  <link rel="stylesheet" media="all" href="css/aa.css" />
+  <!-- Lof slider -->
+  <script src="js/jquery.easing.js"></script>
+  <script src="js/lof-slider.js"></script>
 </head>
 <style>
 a {cursor: pointer}
@@ -116,11 +122,16 @@ a {cursor: pointer}
     {
       redirectTo: '/'
     });
+    $locationProvider.html5Mode(
+    {
+      enabled: true,
+      requireBase: false
+    });
     // $locationProvider.html5Mode(true);
   }).controller("myCtrl", function($scope, $location)
   {
     $scope.linknames = ["HOME", "XIN-GAO GONG", "PUBLICATIONS", "GROUP MEMBERS", "CONTACT", "TEACHING", "FIST"];
-    $scope.links = ["/", "/xingao-gong", "publications", "groupmembers", "contact", "teaching", "fist"];
+    $scope.links = ["/", "/xingao-gong", "/publications", "/groupmembers", "/contact", "/teaching", "/fist"];
     $scope.isCurrent = function($index)
     {
       if ($location.path() === $scope.links[$index]) return true;
@@ -148,8 +159,13 @@ a {cursor: pointer}
       {
         $scope.members = data.members;
         $scope.$apply();
+        refresh()
       })
-    })
+    });
+    $scope.stop = function(e)
+    {
+      return false;
+    }
   }).controller("publicationsCtrl", function($scope, $anchorScroll)
   {
     $scope.years = []
@@ -233,6 +249,43 @@ a {cursor: pointer}
     }
     $scope.viewlec('02')
   });
+
+  function refresh()
+  {
+    //##########################################
+    // Filter - Isotope 
+    //##########################################
+    var $container = $('#filter-container');
+    $container.imagesLoaded(function()
+    {
+      $container.isotope(
+      {
+        itemSelector: 'figure',
+        filter: '*',
+        resizable: false,
+        animationEngine: 'jquery'
+      });
+    });
+    // filter buttons
+    $('#filter-buttons a').click(function()
+    {
+      // select current
+      var $optionSet = $(this).parents('#filter-buttons');
+      $optionSet.find('.selected').removeClass('selected');
+      $(this).addClass('selected');
+      var selector = $(this).attr('data-filter');
+      $container.isotope(
+      {
+        filter: selector
+      });
+      return false;
+    });
+    $('a[data-rel]').each(function()
+    {
+      $(this).attr('rel', $(this).data('rel'));
+    });
+    $("a[rel^='prettyPhoto']").prettyPhoto();
+  }
   </script>
 </body>
 
