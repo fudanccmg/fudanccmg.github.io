@@ -1,7 +1,5 @@
 <!doctype html>
 <html class="no-js">
-<?php date_default_timezone_set('Asia/Shanghai');
-ini_set("display_errors", "Off");?>
 
 <head>
   <meta charset="utf-8" />
@@ -51,32 +49,92 @@ ini_set("display_errors", "Off");?>
   <link rel="stylesheet" media="all" href="css/skin.css" />
   <!-- reply move form -->
   <script src="js/moveform.js"></script>
+  <script src="http://cdn.bootcss.com/angular.js/1.4.0/angular.min.js"></script>
+  <script src="http://cdn.bootcss.com/angular.js/1.4.0/angular-route.min.js"></script>
 </head>
+<style>
+.sf-menu a {cursor: pointer}
+</style>
 
-<body lang="en">
+<body lang="en" ng-app='app' ng-controller="myCtrl">
   <header class="clearfix">
     <div class="wrapper  clearfix">
       <a href="index.php" id="logo">
-        <img src="img/logo.png" alt="Zeni">
-      </a>
+        <img src="img/logo.png" alt="Zeni"> </a>
       <nav>
         <ul id="nav" class="sf-menu">
-          <?php
-$url      = $_SERVER['PHP_SELF'];
-$filename = substr($url, strrpos($url, '/') + 1);
-$a        = array("index.php", "xingao-gong.php", "publications.php", "groupmembers.php", "contact.php", "teaching.php", "fist.php");
-$b        = array("HOME", "XIN-GAO GONG", "PUBLICATIONS", "GROUP MEMBERS", "CONTACT", "TEACHING", "FIST");
-for ($i = 0; $i < count($a); $i++) {
-    if ($filename == $a[$i]) {
-        echo '<li class="current-menu-item">';
-    } else {
-        echo '<li>';
-    }
-    echo '<a href="' . $a[$i] . '">' . $b[$i] . '</a></li>';
-}
-?>
+          <li ng-class="{'current-menu-item':isCurrent($index)}" ng-repeat="item in linknames">
+            <a ng-bind="item" ng-click="linkto(links[$index])"></a>
+          </li>
         </ul>
         <div id="combo-holder"></div>
       </nav>
     </div>
   </header>
+  <ng-view></ng-view>
+  <footer>
+    <div class="wrapper">
+      <div class="left">CCMG. all rights reserved.</a> You are the th visiter.</div>
+      <div class="footer-bottom"> </div>
+    </div>
+  </footer>
+  <script type="text/javascript">
+  var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F29ef608d480685ad02418fa74777154c' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script>
+  angular.module("app", ["ngRoute"]).config(function($routeProvider, $locationProvider)
+  {
+    $routeProvider.when('/',
+    {
+      templateUrl: 'main.html'
+    }).when('/xingao-gong',
+    {
+      templateUrl: 'xingao-gong.html'
+    }).when('/groupmembers',
+    {
+      templateUrl: 'groupmembers.html',
+      controller: 'memberCtrl'
+    }).otherwise(
+    {
+      redirectTo: '/'
+    });
+    // $locationProvider.html5Mode(true);
+  }).controller("myCtrl", function($scope, $location)
+  {
+    $scope.linknames = ["HOME", "XIN-GAO GONG", "PUBLICATIONS", "GROUP MEMBERS", "CONTACT", "TEACHING", "FIST"];
+    $scope.links = ["/", "/xingao-gong", "publications.php", "groupmembers", "contact.php", "teaching.php", "fist.php"];
+    $scope.isCurrent = function($index)
+    {
+      if ($location.path() === $scope.links[$index]) return true;
+      return false
+    }
+    $scope.linkto = function(path)
+    {
+      $location.path(path)
+    }
+    $scope.$on("$viewContentLoaded", function()
+    {
+      console.log("ng-view content loaded!");
+    });
+    $scope.$on("$routeChangeStart", function(event, next, current)
+    {
+      //event.preventDefault(); //cancel url change
+      console.log("route change start!");
+    });
+  }).controller("memberCtrl", function($scope)
+  {
+    $scope.members = []
+    $(function()
+    {
+      $.getJSON("members.json").then(function(data)
+      {
+        $scope.members = data.members;
+        $scope.$apply();
+      })
+    })
+  });
+  </script>
+</body>
+
+</html>
