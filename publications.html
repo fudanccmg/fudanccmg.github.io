@@ -1,0 +1,83 @@
+<!-- MAIN -->
+<div id="main">
+  <div class="wrapper clearfix">
+    <!-- page content -->
+    <div id="page-content" class="clearfix">
+      <!-- floated content -->
+      <div class="floated-content">
+        <h2 class="page-heading">
+          <span>PUBLICATIONS</span>
+        </h2>
+        <link rel="stylesheet" media="all" href="css/table.css" />
+        <p>A more detailed list of our publications can be obtained
+          <font face="Arial" size="-1">
+            <a href="http://www.researcherid.com/rid/D-6532-2011">here</a>
+          </font>
+        </p>
+        <div ng-repeat="itemyear in publications">
+          <a name="pub{{itemyear.year}}"> </a>
+          <table class="bordered">
+            <thead>
+              <tr>
+                <th></th>
+                <th>{{itemyear.year}}</th>
+                <th>download</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr ng-repeat="item in itemyear.papers">
+                <td width="25">[{{$index+1}}]</td>
+                <td>{{item.title}}
+                  <br>{{item.authors}}
+                  <br>
+                  <b>{{item.jounal}}</b>
+                  <br>DOI:{{item.doi}}
+                  <br> </td>
+                <td width="30">
+                  <a href="{{item.pdf}}">PDF</a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <br> </div>
+      </div>
+      <!-- ends floated content -->
+      <!-- sidebar -->
+      <aside id="sidebar">
+        <ul>
+          <li class="block">
+            <h4>TIME</h4>
+            <ul>
+              <li class="cat-item">
+                <a href="#To Be Posted" title="View To Be Posted">[To Be Posted]</a>
+              </li>
+              <a href="#pub{{item}}" title="View {{item}}" ng-repeat="item in years">[{{item}}]</a>
+              <a href="#pubBefore 1990" title="View before 1990">[Before 1990]</a>
+            </ul>
+          </li>
+          <li class="block">
+            <h4>CATEGORIES</h4>
+            <ul>
+              <li class="cat-item">
+                <a href="#" title="View all posts">[1] Methodology: Quantum and classic</a>
+              </li>
+              <li class="cat-item">
+                <a href="#" title="View all posts">[2] Design of new meterials: High K semiconductor, etc.</a>
+              </li>
+              <li class="cat-item">
+                <a href="#" title="View all posts">[3] NANO-: Structures and applications</a>
+              </li>
+              <li class="cat-item">
+                <a href="#" title="View all posts">[4] Surfaces and interfaces</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <em id="corner"></em>
+      </aside>
+      <!-- ENDS sidebar -->
+    </div>
+    <!--  page content-->
+  </div>
+</div>
+<!-- ENDS MAIN -->

@@ -51,6 +51,9 @@
   <script src="js/moveform.js"></script>
   <script src="https://cdn.bootcss.com/angular.js/1.4.0/angular.min.js"></script>
   <script src="https://cdn.bootcss.com/angular.js/1.4.0/angular-route.min.js"></script>
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/flexpaper.js"></script>
+  <script type="text/javascript" src="js/flexpaper_handlers.js"></script>
 </head>
 <style>
 .sf-menu a {cursor: pointer}
@@ -88,9 +91,23 @@
     $routeProvider.when('/',
     {
       templateUrl: 'main.html'
+    }).when('/contact',
+    {
+      templateUrl: 'contact.html'
+    }).when('/teaching',
+    {
+      templateUrl: 'teaching.html',
+      controller: 'teachingCtrl'
+    }).when('/fist',
+    {
+      templateUrl: 'fist.html'
     }).when('/xingao-gong',
     {
       templateUrl: 'xingao-gong.html'
+    }).when('/publications',
+    {
+      templateUrl: 'publications.html',
+      controller: 'publicationsCtrl'
     }).when('/groupmembers',
     {
       templateUrl: 'groupmembers.html',
@@ -103,7 +120,7 @@
   }).controller("myCtrl", function($scope, $location)
   {
     $scope.linknames = ["HOME", "XIN-GAO GONG", "PUBLICATIONS", "GROUP MEMBERS", "CONTACT", "TEACHING", "FIST"];
-    $scope.links = ["/", "/xingao-gong", "publications.php", "groupmembers", "contact.php", "teaching.php", "fist.php"];
+    $scope.links = ["/", "/xingao-gong", "publications", "groupmembers", "contact", "teaching", "fist"];
     $scope.isCurrent = function($index)
     {
       if ($location.path() === $scope.links[$index]) return true;
@@ -133,6 +150,84 @@
         $scope.$apply();
       })
     })
+  }).controller("publicationsCtrl", function($scope)
+  {
+    $scope.years = []
+    for (var i = 2016; i >= 1991; i--)
+    {
+      $scope.years.push(i)
+    }
+    $(function()
+    {
+      $.getJSON("publications.json").then(function(data)
+      {
+        var publications = [];
+        Object.keys(data).forEach(function(year)
+        {
+          publications.push(
+          {
+            year: year,
+            papers: data[year]
+          });
+        })
+        $scope.publications = publications.sort(function(a, b)
+        {
+          return parseInt(b.year) - parseInt(a.year)
+        });
+        console.log(publications)
+        $scope.$apply();
+      })
+    })
+  }).controller("teachingCtrl", function($scope)
+  {
+    var lectures = {
+      "02": "Lecture 02 Numerical Methods",
+      "03": "Lecture 03 Monte Carlo",
+      "05": "Lecture 05 Molecular Dynamics I",
+      "06": "Lecture 06 Molecular Dynamics II",
+      "07": "Lecture 07 Molecular Dynamics III",
+      "10": "Lecture 10 Ab-initio Calculation I",
+      "12": "Lecture 12 Ab-initio Calculation III"
+    }
+    $scope.lectures = Object.keys(lectures).sort().map(function(e)
+    {
+      return {
+        name: e,
+        title: lectures[e]
+      }
+    })
+    $scope.viewlec = function(name)
+    {
+      $('#documentViewer').FlexPaperViewer(
+      {
+        config:
+        {
+          SWFFile: 'lec/Lecture' + name + '.swf',
+          Scale: 0.6,
+          ZoomTransition: 'easeOut',
+          ZoomTime: 0.5,
+          ZoomInterval: 0.2,
+          FitPageOnLoad: true,
+          FitWidthOnLoad: false,
+          FullScreenAsMaxWindow: false,
+          ProgressiveLoading: false,
+          MinZoomSize: 0.2,
+          MaxZoomSize: 5,
+          SearchMatchAll: false,
+          InitViewMode: 'Portrait',
+          RenderingOrder: 'flash',
+          StartAtPage: '',
+          ViewModeToolsVisible: true,
+          ZoomToolsVisible: true,
+          NavToolsVisible: true,
+          CursorToolsVisible: true,
+          SearchToolsVisible: true,
+          WMode: 'window',
+          localeChain: 'en_US'
+        }
+      });
+    }
+    $scope.viewlec('02')
   });
   </script>
 </body>

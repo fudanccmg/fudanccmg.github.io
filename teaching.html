@@ -1,0 +1,33 @@
+<link rel="stylesheet" type="text/css" href="css/flexpaper.css" />
+<!-- MAIN -->
+<div id="main">
+  <div class="wrapper clearfix">
+    <!-- posts list -->
+    <div id="posts-list" class="single-post">
+      <h2 class="page-heading">
+        <span>TEACHING</span>
+      </h2>
+      </script>
+      <!--lec02-->
+      <!--lec10-->
+      <div id="documentViewer" class="flexpaper_viewer" style="width:700px;height:500px"></div>
+      <script type="text/javascript">
+      </script>
+    </div>
+    <!-- ENDS posts list -->
+    <!-- sidebar -->
+    <aside id="sidebar">
+      <ul>
+        <li class="block">
+          <h4>CHAPTERS</h4>
+          <ul>
+            <li class="cat-item" ng-repeat="item in lectures">
+              <a style="cursor: pointer;" title="{{item.title}}" ng-click="viewlec(item.name)">{{item.title}}</a>
+            </li>
+          </ul>
+        </li>
+        <em id="corner"></em>
+    </aside>
+    <!-- ENDS sidebar -->
+  </div>
+</div>
