@@ -56,13 +56,13 @@
   <script type="text/javascript" src="js/flexpaper_handlers.js"></script>
 </head>
 <style>
-.sf-menu a {cursor: pointer}
+a {cursor: pointer}
 </style>
 
 <body lang="en" ng-app='app' ng-controller="myCtrl">
   <header class="clearfix">
     <div class="wrapper  clearfix">
-      <a href="index.php" id="logo">
+      <a href="/#/" id="logo">
         <img src="img/logo.png" alt="Zeni"> </a>
       <nav>
         <ul id="nav" class="sf-menu">
@@ -150,7 +150,7 @@
         $scope.$apply();
       })
     })
-  }).controller("publicationsCtrl", function($scope)
+  }).controller("publicationsCtrl", function($scope, $anchorScroll)
   {
     $scope.years = []
     for (var i = 2016; i >= 1991; i--)
@@ -178,6 +178,10 @@
         $scope.$apply();
       })
     })
+    $scope.toanchor = function(item)
+    {
+      $anchorScroll(item)
+    }
   }).controller("teachingCtrl", function($scope)
   {
     var lectures = {
