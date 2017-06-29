@@ -162,10 +162,6 @@ a {cursor: pointer}
         refresh()
       })
     });
-    $scope.stop = function(e)
-    {
-      return false;
-    }
   }).controller("publicationsCtrl", function($scope, $anchorScroll)
   {
     $scope.years = []
@@ -284,7 +280,10 @@ a {cursor: pointer}
     {
       $(this).attr('rel', $(this).data('rel'));
     });
-    $("a[rel^='prettyPhoto']").prettyPhoto();
+    $("a[rel^='prettyPhoto']").prettyPhoto(
+    {
+      deeplinking: false
+    });
   }
   </script>
 </body>
