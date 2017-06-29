@@ -1,0 +1,34 @@
+begin lectures
+	
+	
+	02
+	lecture note
+	computational science
+	for view only
+	Lecture02.pdf
+
+	03
+	lecture note
+	computational science
+	for view only
+	Lecture03.pdf
+	
+	06
+	lecture note
+	computational science
+	for view only
+	Lecture06.pdf
+
+	07
+	lecture note
+	computational science
+	for view only
+	Lecture07.pdf
+
+        12
+	lecture note
+	computational science
+	for view only
+	Lecture12.pdf
+end
+
