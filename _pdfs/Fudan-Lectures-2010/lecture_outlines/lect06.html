@@ -1,0 +1,251 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Richard M. Martin">
+   <title>Lecture 6:  Planewaves: Pseudopotentials, APW, PAW</title>
+</head>
+<body>
+
+<center><font color="#660000"><font size=+3>
+Lecture 6:  Planewaves: Pseudopotentials, APW, PAW</font></font>
+<hr WIDTH="100%"></center>
+<a href="../index.html">Return to Main Page</a>
+
+<p>
+<a href="../lecture_notes/lect06.pdf">Link to PDF version of Power Point Slides for Lecture 6, Part 1</a></p>
+
+<p>
+<a href="../lecture_notes/lect06a.pdf">Link to PDF version of Power Point Slides for Lecture 6, Part 2</a>
+</p>
+
+<hr WIDTH="100%"></center>
+
+<p>The big picture: Fourier Transforms always work in periodic systems.&nbsp;Direct proof of the Bloch theorem;
+alternative way to understand the Brillouin Zone, etc.</p>
+
+<p>But it is easy to show that plane wave calculations are 
+not feasible for elements heavier than Li, because too many Fourier components are required for a realistic calculation.  Plane waves are useful only only if there is a way to treat core electrons.</p>
+
+<center><font color="#660000"><font size=+1>Part 1 - Planewave calculations</font></font>
+<hr WIDTH="100%"></center>
+
+
+<blockquote>
+
+<ol TYPE=I>
+
+<li>
+
+<font color="#000000">The Schrodinger equation for a periodic crystal</font></li>
+
+<li>
+
+<font color="#000000">Calculations in a
+Plane Wave Basis</font></li>
+
+<ol TYPE=A>
+
+<li>
+<font color="#000000">Simple expressions for Bloch states, Schr. Eq.</font></li>
+
+
+
+<li>
+<font color="#000000">Self-consistent Kohn-Sham calculation
+.</font></li>
+
+<ol TYPE=i>
+
+
+<li>
+<font color="#000000">From output eigenvectors - find new density and potential
+ </font></li>
+
+ <li>
+Example of clever algorithm -- efficient in real space
+ </font></li>
+
+
+<li>
+<font color="#000000">Fast Fourier Transform (FFT) – introduction of grid in real space</font></li>
+</ol>
+
+<li>
+<font color="#000000">Repeat to self-consistency  </font></li>
+ </font></li>
+
+
+</ol>
+
+<li>
+<font color="#000000">Tests for convergence   -- MUST be done for calculations to be correct!
+</font></li>
+
+<ol TYPE=A>
+<li>
+<font color="#000000">Convergence in number of plane waves </font></li>
+
+<li>
+<font color="#000000">Convergence in number of iterations</font></li>
+
+<li>
+
+<font color="#000000">Convergence in number of points sampled in the BZ</font></li>
+
+
+<font color="#000000">Accurate treatment of core electrons</font></li>
+
+</ol>
+
+<li>
+<font color="#000000">How to use planes for surface calculations </font></li>
+
+<ol TYPE=A>
+<li>
+<font color="#000000">"Supercells"</font></li>
+
+<li>
+<font color="#000000">Must use many plane waves - but still efficient </font></li>
+
+</ol>
+
+<li>
+<font color="#000000">Examples</font></li>
+
+</ol>
+
+</blockquote>
+
+
+<center><font color="#660000"><font size=+1>Part 2 - Pseudopotentials, APW, PAW</font></font>
+<hr WIDTH="100%"></center>
+
+
+<blockquote>
+<ol TYPE=I>
+
+<li>
+<font color="#000000">Why eliminate core electrons?</font></li>
+
+<ol TYPE=A>
+
+<li>
+<font color="#000000">Must do something to have a feasible number of plane waves </font></li>
+
+</ol>
+
+<li>
+<font color="#000000">Eliminating the core electrons with pseudopotentials</font></li>
+
+<ol TYPE=A>
+
+<li>
+<font color="#000000">"Ab Initio" Norm-Conserving Pseudopotentials</font></li>
+
+
+<ol TYPE=a>
+
+<li>
+<font color="#000000">Key point is to do calculation on an atom - easy in spherical coordinates</font></li>
+
+<li>
+<font color="#000000">Define pseudopotential for valence states by finding smooth functions that have the same form
+outside the core and same eigenvalues as the original atomic valence states</font></li>
+
+<li>
+<font color="#000000">Elegant proof that if the normalization of the wavefunction inside the core region, the the resulting pseudopotential is valid to linear order for a range of energies
+
+
+</ol>
+
+<li>
+<font color="#000000">Great Advantages of Plane waves with pseudopotentials
+
+<ol TYPE=a>
+
+<li>
+<font color="#000000">Great advantage - Plane wave programs that
+use pseudopotentials are very simple and very fast - FFTs
+Can readily calculate forces == the method used for essentially all
+"ab initio" molecular dynamics. The method easiest to use
+for response functions, phonon frequencies, etc. </font></li>
+
+</ol>
+
+<li>
+<font color="#000000">Augmented methods </font><br></li>
+
+
+<ol TYPE=a>
+
+<li>
+<font color="#000000">APW methods solve for both core and valence states by using spherical waves inside a sphere and plane waves outside
+
+<ol>
+
+<li>
+<font color="#000000">Most accurate - most difficult
+
+<li>
+<font color="#000000">Matching is non-linear problem - much
+easier by linearizing - similar to pseudopotentials that
+are correct to linear order for changes in energy
+
+<li>
+<font color="#000000">Most useful when both localized and delocalized valence states are important - like transition metals
+
+<li>
+<font color="#000000">Great disadvantage - cannot use  FFTs directly since functions are defined differently inside and outside the spheres
+
+</ol>
+
+<li>
+<font color="#000000">PAW methods add localized core functions to plane waves that extend throughout crystal
+
+<ol>
+
+<li>
+<font color="#000000">Great advantage - Plane wave programs that
+are like pseudopotentials -  very simple and very fast - FFTs
+
+
+<li>
+<font color="#000000">Unlike pseudopotentials the core states
+are kept and the method is more useful when both localized and delocalized valence states are important  - like transition metals
+
+</ol>
+
+</ol>
+
+<li>
+<font color="#000000">Comparison of results</font><br></li>
+
+
+<li>
+<font color="#000000">Examples of results for solids</font><br></li>
+
+
+<li>
+<font color="#000000">Conclusions</font></li>
+
+</ol>
+
+</blockquote>
+
+
+<hr WIDTH="100%"></center>
+<p>
+<a href="http://www.abinit.org/">Link to ABINIT </a> - Open Source Kohn-Sham DFT plane wave code with excellent tutorial and many features.
+
+<p>
+<a href="http://www.tddft.org/programs/octopus/pseudo.php">Link to a nice site for generation of pseudopoentials</a>.
+
+<p>
+<a href="http://www.wien2k.at/">Link to WEIN2k </a> - LAPW code.  This code is available only upon request to the developers.  It is
+probably the best developed code that uses the augmentation methods
+
+</body>
+
+</html>
+
