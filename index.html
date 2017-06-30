@@ -96,27 +96,27 @@ a {cursor: pointer}
   {
     $routeProvider.when('/',
     {
-      templateUrl: 'main.html'
+      templateUrl: 'templates/main.html'
     }).when('/contact',
     {
-      templateUrl: 'contact.html'
+      templateUrl: 'templates/contact.html'
     }).when('/teaching',
     {
-      templateUrl: 'teaching.html',
+      templateUrl: 'templates/teaching.html',
       controller: 'teachingCtrl'
     }).when('/fist',
     {
-      templateUrl: 'fist.html'
+      templateUrl: 'templates/fist.html'
     }).when('/xingao-gong',
     {
-      templateUrl: 'xingao-gong.html'
+      templateUrl: 'templates/xingao-gong.html'
     }).when('/publications',
     {
-      templateUrl: 'publications.html',
+      templateUrl: 'templates/publications.html',
       controller: 'publicationsCtrl'
     }).when('/groupmembers',
     {
-      templateUrl: 'groupmembers.html',
+      templateUrl: 'templates/groupmembers.html',
       controller: 'memberCtrl'
     }).otherwise(
     {
@@ -155,7 +155,7 @@ a {cursor: pointer}
     $scope.members = []
     $(function()
     {
-      $.getJSON("members.json").then(function(data)
+      $.getJSON("data/members.json").then(function(data)
       {
         $scope.members = data.members;
         $scope.$apply();
@@ -171,7 +171,7 @@ a {cursor: pointer}
     }
     $(function()
     {
-      $.getJSON("publications.json").then(function(data)
+      $.getJSON("data/publications.json").then(function(data)
       {
         var publications = [];
         Object.keys(data).forEach(function(year)
