@@ -1,84 +1,15 @@
 ﻿<!-- MAIN -->
 <div id="main">
+  <style>
+  #map { display: block; height: 300px; width: 100%; margin-bottom: 24px; margin-top: 40px; -webkit-box-shadow: 2px 2px 0px rgba(0, 0, 0, .2); -moz-box-shadow: 2px 2px 0px rgba(0, 0, 0, .2); -o-box-shadow: 2px 2px 0px rgba(0, 0, 0, .2); box-shadow: 2px 2px 0px rgba(0, 0, 0, .2);}
+  </style>
   <div class="wrapper clearfix">
     <h2 class="page-heading">
       <span>CONTACT</span>
     </h2>
     <!-- page content -->
     <div id="page-content" class="clearfix">
-      <!-- Map -->
-      <!--<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true" /></script> -->
-      <script type="text/javascript">
-      NameOverlay.prototype = new google.maps.OverlayView(); // 扩展OverlayView
-      function initialize()
-      {
-        var mapCenter = new google.maps.LatLng(31.298884, 121.50281);
-        var mapOptions = {
-          zoom: 14,
-          center: mapCenter,
-          mapTypeId: google.maps.MapTypeId.ROADMAP
-        }
-        var map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
-        // 显示地图
-        var marker1LatLng = new google.maps.LatLng(31.298884, 121.50281);
-        var marker1 = new google.maps.Marker(
-        {
-          position: marker1LatLng,
-          map: map,
-          title: "Department of Physics,FuDan University"
-        });
-        // 定义一个NameOverlay，显示在指定位置
-        var name1View = new NameOverlay(marker1LatLng, "Welcome!", map);
-      }
-      // NameOverlay定义
-      function NameOverlay(point, name, map)
-      {
-        // 初始化参数：坐标、文字、地图
-        this.point_ = point;
-        this.name_ = name;
-        this.map_ = map;
-        // 到onAdd时才需要创建div
-        this.div_ = null;
-        // 加入map
-        this.setMap(map);
-      }
-      NameOverlay.prototype.onAdd = function()
-      {
-        // 创建一个div，其中包含了当前文字
-        var div = document.createElement('DIV');
-        div.style.borderStyle = "none";
-        div.style.borderWidth = "0px";
-        div.style.position = "absolute";
-        var span = document.createElement("span");
-        var text = document.createTextNode(this.name_);
-        span.appendChild(text);
-        div.appendChild(span);
-        // Set the overlay's div_ property to this DIV
-        this.div_ = div;
-        // We add an overlay to a map via one of the map's panes.
-        // We'll add this overlay to the overlayImage pane.
-        var panes = this.getPanes();
-        panes.overlayImage.appendChild(div);
-      }
-      NameOverlay.prototype.draw = function()
-      {
-        // 利用projection获得当前视图的坐标
-        var overlayProjection = this.getProjection();
-        var center = overlayProjection.fromLatLngToDivPixel(this.point_);
-        // 为简单，长宽是固定的，实际应该根据文字改变
-        var div = this.div_;
-        div.style.left = center.x + 'px';
-        div.style.top = center.y + 'px';
-        div.style.width = '100px';
-        div.style.height = '10px';
-      }
-      NameOverlay.prototype.onRemove = function()
-      {
-        this.div_.parentNode.removeChild(this.div_);
-        this.div_ = null;
-      }
-      </script>
-      <div id="map_canvas"></div>
+      <div id="map"></div>
       <!-- ENDS Map -->
       <div class="map-content" style="text-indent: 2em;"> The Physics Department of Fudan University was founded in 1952, seeded from the physics group in the former Department of Mathematics and Physics at Fudan. Under the nation-wide reorganizational effort within universities located close by, the physics departments of 8 universities in East China, including Fudan University, Jiaotong University, Tongji University, Zhejiang University, Hujiang University and Datong University, were partly merged into one department, the Physics Department of Fudan University. </div>
       <!-- form -->
@@ -133,7 +64,97 @@
   </div>
 </div>
 <!-- ENDS MAIN -->
-<!-- Start google map -->
-<script>
-initialize();
+<!--百度地图容器-->
+<script type="text/javascript">
+//创建和初始化地图函数：
+function initMap()
+{
+  createMap(); //创建地图
+  setMapEvent(); //设置地图事件
+  addMapControl(); //向地图添加控件
+  addMapOverlay(); //向地图添加覆盖物
+}
+
+function createMap()
+{
+  map = new BMap.Map("map");
+  map.centerAndZoom(new BMap.Point(121.509622, 31.304283), 17);
+}
+
+function setMapEvent()
+{
+  map.enableScrollWheelZoom();
+  map.enableKeyboard();
+  map.enableDragging();
+  map.enableDoubleClickZoom()
+}
+
+function addClickHandler(target, window)
+{
+  target.addEventListener("click", function()
+  {
+    target.openInfoWindow(window);
+  });
+}
+
+function addMapOverlay()
+{
+  var markers = [
+  {
+    content: "",
+    title: "Physics Building, Fudan University",
+    imageOffset:
+    {
+      width: -46,
+      height: -21
+    },
+    position:
+    {
+      lat: 31.304838,
+      lng: 121.509586
+    }
+  }];
+  for (var index = 0; index < markers.length; index++)
+  {
+    var point = new BMap.Point(markers[index].position.lng, markers[index].position.lat);
+    var marker = new BMap.Marker(point,
+    {
+      icon: new BMap.Icon("http://api.map.baidu.com/lbsapi/createmap/images/icon.png", new BMap.Size(20, 25),
+      {
+        imageOffset: new BMap.Size(markers[index].imageOffset.width, markers[index].imageOffset.height)
+      })
+    });
+    var label = new BMap.Label(markers[index].title,
+    {
+      offset: new BMap.Size(25, 5)
+    });
+    var opts = {
+      width: 200,
+      title: markers[index].title,
+      enableMessage: false
+    };
+    var infoWindow = new BMap.InfoWindow(markers[index].content, opts);
+    marker.setLabel(label);
+    addClickHandler(marker, infoWindow);
+    map.addOverlay(marker);
+  };
+}
+//向地图添加控件
+function addMapControl()
+{
+  var scaleControl = new BMap.ScaleControl(
+  {
+    anchor: BMAP_ANCHOR_BOTTOM_LEFT
+  });
+  scaleControl.setUnit(BMAP_UNIT_IMPERIAL);
+  map.addControl(scaleControl);
+  var navControl = new BMap.NavigationControl(
+  {
+    anchor: BMAP_ANCHOR_TOP_LEFT,
+    type: BMAP_NAVIGATION_CONTROL_LARGE
+  });
+  map.addControl(navControl);
+}
+var map;
+initMap();
 </script>
