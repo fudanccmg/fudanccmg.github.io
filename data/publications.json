@@ -1518,6 +1518,121 @@
     "doi": "10.1103/PhysRevB.93.024511",
     "pdf": "pdfs/2016_prb1.pdf"
   }],
+  "2017": [{
+    "title": "A parallel orbital-updating based plane-wave basis method for electronic structure calculations",
+    "authors": "Yan Pan, Xiaoying Dai, Stefano de Gironcoli, Xin-Gao Gong, Gian-Marco Rignanese, Aihui Zhou",
+    "jounal": "Journal of Computational Physics",
+    "doi": "10.1016/j.jcp.2017.07.033",
+    "pdf": "pdfs/2017_cmp1.pdf"
+  }, {
+    "title": "Designing new ferroelectrics with a general strategy",
+    "authors": "Ke Xu, Xue-Zeng Lu and Hongjun Xiang",
+    "jounal": "npj Quantum Materials",
+    "doi": "10.1038/s41535-016-0001-8",
+    "pdf": "pdfs/2017_npj_qm1.pdf"
+  }, {
+    "title": "Electric-Field-Controlled Phase Transformation in WO3 Thin Films through Hydrogen Evolution",
+    "authors": "Meng Wang, Shengchun Shen, Jinyang Ni, Nianpeng Lu, Zhuolu Li, Hao-Bo Li, Shuzhen Yang, Tianzhe Chen, Jingwen Guo, Yujia Wang, Hongjun Xiang, and Pu Yu",
+    "jounal": "Advanced Materials",
+    "doi": "10.1002/adma.201703628",
+    "pdf": "pdfs/2017_Adv. Mater1.pdf"
+  }, {
+    "title": "Exploring Emerging Photovoltaic Materials Beyond Perovskite: The Case of Skutterudite",
+    "authors": "Yuan Yin, Yang Huang, Yelong Wu, Guangde Chen, Wan-Jian Yin, Su-Huai Wei and Xingao Gong",
+    "jounal": "Chemistry of Materials",
+    "doi": "10.1021/acs.chemmater.7b03507",
+    "pdf": "pdfs/2017_cm1.pdf"
+  }, {
+    "title": "Improper ferroelectricity at antiferromagnetic domain walls of perovskite oxides",
+    "authors": "Yali Yang, Hongjun Xiang, Hongjian Zhao, Alessandro Stroppa, Jincang Zhang, Shixun Cao, Jorge Íñiguez, L. Bellaiche and Wei Ren",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.96.104431",
+    "pdf": "pdfs/2017_prb1.pdf"
+  }, {
+    "title": "Intrinsic Features of an Ideal Glass",
+    "authors": "Deyan Sun(孙得彦), Cheng Shang(商城), Zhipan Liu(刘智攀), Xingao Gong(龚新高)",
+    "jounal": "Chinese Physics Letters",
+    "doi": "10.1088/0256-307X/34/2/026402",
+    "pdf": "pdfs/2017_cpl1.pdf"
+  }, {
+    "title": "Large carrier-capture rate of PbI antisite in CH3NH3PbI3 induced by heavy atoms and soft phonon modes",
+    "authors": "Jiqiang Li, Hai-Feng Zhu, Yue-Yu Zhang, Zhen-Kun Yuan, Shiyou Chen and Xin-Gao Gong",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.96.104103",
+    "pdf": "pdfs/2017_prb2.pdf"
+  }, {
+    "title": "Novel Multiferroic Phases and Phenomena in Epitaxial (111) BiFeO3 Films",
+    "authors": "Changsong Xu, Hongjun Xiang, and Laurent Bellaiche",
+    "jounal": "Advanced Electronic Materials",
+    "doi": "10.1002/aelm.201700332",
+    "pdf": "pdfs/2017_Adv. Electron. Mater.pdf"
+  }, {
+    "title": "Origin of the type-II band offset between rutile and anatase titanium dioxide: Classical and quantum-mechanical interactions between O ions",
+    "authors": "Yue-Yu Zhang, Li Lang, Hui-Jun Gu, Shiyou Chen, Zhi-Pan Liu, Hongjun Xiang and Xin-Gao Gong",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.95.155308",
+    "pdf": "pdfs/2017_prb3.pdf"
+  }, {
+    "title": "Phonon mode links ferroicities in multiferroic [(CH3)2NH2]Mn(HCOO)3",
+    "authors": "Kendall D. Hughey, Amanda J. Clune, Michael O. Yokosuk, Amal al-Wahish, Kenneth R. O’Neal, Shiyu Fan, Nandita Abhyankar, Hongjun Xiang, Zhiqiang Li, John Singleton, Naresh S. Dalal and Janice L. Musfeldt",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.96.180305",
+    "pdf": "pdfs/2017_prb4.pdf"
+  }, {
+    "title": "Prediction of high-temperature quantum anomalous Hall effect in two-dimensional transition-metal oxides",
+    "authors": "H. P. Wang, Wei Luo, and H. J. Xiang",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.95.125430",
+    "pdf": "pdfs/2017_prb5.pdf"
+  }, {
+    "title": "Prediction of two-dimensional materials by the global optimization approach",
+    "authors": "Teng Gu, Wei Luo and Hongjun Xiang",
+    "jounal": "WIREs Computational Molecular Science",
+    "doi": "10.1002/wcms.1295",
+    "pdf": "pdfs/2017_wcms1.pdf"
+  }, {
+    "title": "Rules and mechanisms governing octahedral tilts in perovskites under pressure",
+    "authors": "H. J. Xiang, Mael Guennou, Jorge Íñiguez, Jens Kreisel and L. Bellaiche",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.96.054102",
+    "pdf": "pdfs/2017_prb6.pdf"
+  }, {
+    "title": "Sodium Passivation of the Grain Boundaries in CuInSe2 and Cu2ZnSnS4 for High-Efficiency Solar Cells",
+    "authors": "Cheng-Yan Liu, Zhi-Ming Li, Hong-Yang Gu, Shi-You Chen, Hongjun Xiang and Xin-Gao Gong",
+    "jounal": "Advanced Energy Materials",
+    "doi": "10.1002/aenm.201601457",
+    "pdf": "pdfs/2017_Adv. Energy Mater1.pdf"
+  }, {
+    "title": "Theoretical investigation on thermoelectric properties of Cu-based chalcopyrite compounds",
+    "authors": "Biao Wang, Hongjun Xiang, Tsuneyoshi Nakayama, Jun Zhou and Baowen Li",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.95.035201",
+    "pdf": "pdfs/2017_prb7.pdf"
+  }, {
+    "title": "Topological Dirac States beyond π‑Orbitals for Silicene on SiC(0001) Surface",
+    "authors": "Ping Li, Xiao Li, Wei Zhao, Hua Chen, Ming-Xing Chen, Zhi-Xin Guo, Ji Feng, Xin-Gao Gong and Allan H. MacDonald",
+    "jounal": "Nano Letters",
+    "doi": "10.1021/acs.nanolett.7b02855",
+    "pdf": "pdfs/2017_nanolett1.pdf"
+  }, {
+    "title": "Two-dimensional hyperferroelectric metals: A different route to ferromagnetic-ferroelectric multiferroics",
+    "authors": "Wei Luo, Ke Xu, and Hongjun Xiang",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.96.235415",
+    "pdf": "pdfs/2017_prb8.pdf"
+  }, {
+    "title": "Two-Dimensional Node-Line Semimetals in a Honeycomb-Kagome Lattice",
+    "authors": "Jin-Lian Lu(卢金炼), Wei Luo(罗伟), Xue-Yang Li(李雪阳), Sheng-Qi Yang(杨晟祺),Jue-Xian Cao(曹觉先), Xin-Gao Gong(龚新高), Hong-Jun Xiang(向红军)",
+    "jounal": "Chinese Physics Letters",
+    "doi": "10.1088/0256-307X/34/5/057302",
+    "pdf": "pdfs/2017_cpl2.pdf"
+  }, {
+    "title": "Unveiling magnetic interactions of ruthenium trichloride via constraining direction of orbital moments: Potential routes to realize a quantum spin liquid",
+    "authors": "Y. S. Hou, H. J. Xiang and X. G. Gong",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.96.054410",
+    "pdf": "pdfs/2017_prb9.pdf"
+  }],
   "Before 1990": [{
     "title": "Electronic structure of light impurities in alpha-Fe and V",
     "authors": "Gong XG,Zeng Z,Zheng QQ",
