@@ -1440,6 +1440,48 @@
     "pdf": "pdfs/2015_jacs1.pdf"
   }],
   "2016": [{
+    "title": "Unveiling the origin of the basal-plane antiferromagnetism in the spin–orbit Mott insulator Ba2IrO4: a density functional and model Hamiltonian study",
+    "authors": "Y S Hou, H J Xiang and X G Gong",
+    "jounal": "New Journal of Physics",
+    "doi": "10.1088/1367-2630/18/4/043007",
+    "pdf": "pdfs/2016_njp1"
+  }, {
+    "title": "Three-dimensional WS2 nanosheet networks for H2O2 produced for cell signaling",
+    "authors": "Jing Tang, Yingzhou Quan, Yueyu Zhang, Min Jiang, Abdullah M. Al-Enizi, Biao Kong, Tiance An, Wenshuo Wang, Limin Xia, Xingao Gong and Gengfeng Zheng",
+    "jounal": "Nanoscale",
+    "doi": "10.1039/c5nr09236a",
+    "pdf": "pdfs/2016_nanoscale2"
+  }, {
+    "title": "Thermal conductivity of disordered two-dimensional binary alloys",
+    "authors": "Yang Zhou, Zhi-Xin Guo, Hai-Yuan Cao, Shi-You Chen, Hong-Jun Xiang and Xin-Gao Gong",
+    "jounal": "Nanoscale",
+    "doi": "10.1039/c6nr04651g",
+    "pdf": "pdfs/2016_nanoscale1"
+  }, {
+    "title": "Photoelectrochemical Conversion from Graphitic C3N4 Quantum Dot Decorated Semiconductor Nanowires",
+    "authors": "Tiance An, Jing Tang, Yueyu Zhang, Yingzhou Quan, Xingao Gong, Abdullah M. Al-Enizi, Ahmed A. Elzatahry, Lijuan Zhang and Gengfeng Zheng",
+    "jounal": "ACS Applied Materials & Interfaces",
+    "doi": "10.1021/acsami.6b01534",
+    "pdf": "pdfs/2016_acsami1"
+  }, {
+    "title": "Orbital-frustration-induced ordering in semiconductor alloys",
+    "authors": "Kai Liu, Wanjian Yin, Shiyou Chen, X. G. Gong, S.-H. Wei* and H. J. Xiang†",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.93.205207",
+    "pdf": "pdfs/2016_prb3"
+  }, {
+    "title": "Orbital Delocalization and Enhancement of Magnetic Interactions in Perovskite Oxyhydrides",
+    "authors": "Kai Liu, Yusheng Hou, Xingao Gong & Hongjun Xiang",
+    "jounal": "SCIENTIFIC REPORTS",
+    "doi": "10.1038/srep19653",
+    "pdf": "pdfs/2016_srep1"
+  }, {
+    "title": "Na-Diffusion Enhanced p-type Conductivity in Cu(In,Ga)Se2: A New Mechanism for Efficient Doping in Semiconductors",
+    "authors": "Zhen-Kun Yuan, Shiyou Chen,* Yun Xie, Ji-Sang Park, Hongjun Xiang, Xin-Gao Gong, and Su-Huai Wei",
+    "jounal": "Advanced Energy Materials",
+    "doi": "10.1002/aenm.201601191",
+    "pdf": "pdfs/2016_Adv. Energy Mater1"
+  }, {
     "title": "Microscopic mechanism of spin-order induced improper ferroelectric polarization",
     "authors": "P.S. Wang, X.Z. Lu, X.G. Gong, H.J. Xiang",
     "jounal": "Computational Materials Science",
