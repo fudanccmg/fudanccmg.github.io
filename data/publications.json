@@ -1440,6 +1440,12 @@
     "pdf": "pdfs/2015_jacs1.pdf"
   }],
   "2016": [{
+    "title": "Microscopic mechanism of spin-order induced improper ferroelectric polarization",
+    "authors": "P.S. Wang, X.Z. Lu, X.G. Gong, H.J. Xiang",
+    "jounal": "Computational Materials Science",
+    "doi": "10.1016/j.commatsci.2015.08.041",
+    "pdf": "pdfs/2016_cms1.pdf"
+  }, {
     "title": "Hybrid Crystalline sp2-sp3 Carbon as a High-Efficiency Solar Cell",
     "authors": "Yue-Yu Zhang, Shiyou Chen, Hongjun Xiang, Xin-Gao Gong*",
     "jounal": "CARBON",
