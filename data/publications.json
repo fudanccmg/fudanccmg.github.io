@@ -1899,6 +1899,182 @@
     "doi": "10.1038/s41563-019-0524-z",
     "pdf": "pdfs/2019_nm1.pdf"
   }],
+  "2020": [{
+    "title": "Berezinskii-Kosterlitz-Thouless phase in two-dimensional ferroelectrics",
+    "authors": "Changsong Xu, Yousra Nahas, Sergei Prokhorenko, Hongjun Xiang and L. Bellaiche",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.101.241402",
+    "pdf": "pdfs/2020_prb1.pdf"
+  }, {
+    "title": "Constructing realistic effective spin Hamiltonians with machine learning approaches",
+    "authors": "Xue-Yang Li, Feng Lou, Xin-Gao Gong and Hongjun Xiang",
+    "jounal": "New Journal of Physics",
+    "doi": "10.1088/1367-2630/ab85df",
+    "pdf": "pdfs/2020_njp1.pdf"
+  }, {
+    "title": "Direct experimental evidence of physical origin of electronic phase separation in manganites",
+    "authors": "Tian Miao, Lina Deng, Wenting Yang, Jinyang Ni, Changlin Zheng, Joanne Etheridge, Shasha Wang, Hao Liu, Hanxuan Lin, Yang Yu, Qian Shi, Peng Cai, Yinyan Zhu, Tieying Yang, Xingmin Zhang, Xingyu Gao, Chuanying Xi, Mingliang Tian, Xiaoshan Wu, Hongjun Xiang, Elbio Dagotto, Lifeng Yin and Jian Shen",
+    "jounal": "Proceedings of the National Academy of the Sciences of the United States of America",
+    "doi": "doi:10.1073/pnas.1920502117/-/DCSupplemental",
+    "pdf": "pdfs/2020_pnas1.pdf"
+  }, {
+    "title": "Directly Determining the Interface Structure and Band Offset of a Large-Lattice-Mismatched CdS/CdTe Heterostructure",
+    "authors": "Quanyin Tang(汤权银), Ji-Hui Yang(杨吉辉), Zhi-Pan Liu(刘智攀), and Xin-Gao Gong(龚新高)",
+    "jounal": "Chinese Physics Letters",
+    "doi": "10.1088/0256-307X/37/9/096802",
+    "pdf": "pdfs/2020_cpl1.pdf"
+  }, {
+    "title": "Electric-Field Switching of Magnetic Topological Charge in Type-I Multiferroics",
+    "authors": "Changsong Xu, Peng Chen, Hengxin Tan, Yurong Yang, Hongjun Xiang and L. Bellaiche",
+    "jounal": "PHYSICAL REVIEW LETTERS",
+    "doi": "10.1103/PhysRevLett.125.037203",
+    "pdf": "pdfs/2020_prl1.pdf"
+  }, {
+    "title": "Electron quantum interference in epitaxial antiferromagnetic NiO thin films",
+    "authors": "Jia Xu, Feng Lou, Mengwen Jia, Gong Chen, Chao Zhou, Qian Li, Kai Liu, Andreas K. Schmid, Hongjun Xiang and Yizheng Wu",
+    "jounal": "AIP Advances",
+    "doi": "10.1063/1.5129772",
+    "pdf": "pdfs/2020_aipa1.pdf"
+  }, {
+    "title": "Fully Boron-Sheet-Based Field Effect Transistors from FirstPrinciples: Inverse Design of Semiconducting Boron Sheets",
+    "authors": "Yi-Lin Zhang, Ji-Hui Yang, Hongjun Xiang and Xin-Gao Gong",
+    "jounal": "The Journal of Physical Chemistry Letters",
+    "doi": "10.1021/acs.jpclett.0c03333",
+    "pdf": "pdfs/2020_jpcl1.pdf"
+  }, {
+    "title": "Intralayer ferromagnetism between S = 5/2 ions in MnBi2Te4: Role of empty Bi p states",
+    "authors": "Jing Li, J. Y. Ni, X. Y. Li, H.-J. Koo, M.-H. Whangbo, J. S. Feng and H. J. Xiang",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.101.201408",
+    "pdf": "pdfs/2020_prb2.pdf"
+  }, {
+    "title": "Linear Versus Nonlinear Electro-Optic Effects in Materials",
+    "authors": "Zhijun Jiang, Charles Paillard, Hongjun Xiang and L. Bellaiche",
+    "jounal": "PHYSICAL REVIEW LETTERS",
+    "doi": "10.1103/PhysRevLett.125.017401",
+    "pdf": "pdfs/2020_prl2.pdf"
+  }, {
+    "title": "Magnetic-Domain-Wall-Induced Electrical Polarization in Rare-Earth Iron Garnet Systems: A First-Principles Study",
+    "authors": "Temuujin Bayaraa, Changsong Xu, Yali Yang, Hongjun Xiang and L. Bellaiche",
+    "jounal": "PHYSICAL REVIEW LETTERS",
+    "doi": "10.1103/PhysRevLett.125.067602",
+    "pdf": "pdfs/2020_prl3.pdf"
+  }, {
+    "title": "Nanocluster glass-formation: a potential energy landscape perspective",
+    "authors": "D Y Sun and X G Gong",
+    "jounal": "New Journal of Physics",
+    "doi": "10.1088/1367-2630/abbca6",
+    "pdf": "pdfs/2020_njp2.pdf"
+  }, {
+    "title": "Origin of off-stoichiometry and electrical benignity at the grain boundaries in CuInSe2: A first-principles study",
+    "authors": "Guo-Jun Zhu, Ji-Hui Yang and Xin-Gao Gong",
+    "jounal": "Journal of Applied Physics",
+    "doi": "10.1063/5.0018397",
+    "pdf": "pdfs/2020_jap1.pdf"
+  }, {
+    "title": "Orthorhombic BiFeO3: Theoretical studies on magnetoelectric effects of the multiferroic phase",
+    "authors": "Ke Xu, Guijie Liang, Yu Feng, H. J. Xiang and Junsheng Feng",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.102.224416",
+    "pdf": "pdfs/2020_prb3.pdf"
+  }, {
+    "title": "Possible Kitaev Quantum Spin Liquid State in 2D Materials with S = 3/2",
+    "authors": "Changsong Xu, Junsheng Feng, Mitsuaki Kawamura, Youhei Yamaji, Yousra Nahas, Sergei Prokhorenko, Yang Qi, Hongjun Xiang and L. Bellaiche",
+    "jounal": "PHYSICAL REVIEW LETTERS",
+    "doi": "10.1103/PhysRevLett.124.087205",
+    "pdf": "pdfs/2020_prl4.pdf"
+  }, {
+    "title": "Quantum paraelectricity of BaFe12O19",
+    "authors": "Xuefeng Zhang, Qi-Jun Ye, Hongjun Xiang and Xin-Zheng Li",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.101.104102",
+    "pdf": "pdfs/2020_prb4.pdf"
+  }, {
+    "title": "Self-consistently determining structures of charged defects and defect ionization energies in low-dimensional semiconductors",
+    "authors": "Guo-Jun Zhu, Ji-Hui Yang and Xin-Gao Gong",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.102.035202",
+    "pdf": "pdfs/2020_prb5.pdf"
+  }, {
+    "title": "Topological spin texture in Janus monolayers of the chromium trihalides Cr(I, X)3",
+    "authors": "Changsong Xu, Junsheng Feng, Sergei Prokhorenko, Yousra Nahas, Hongjun Xiang and L. Bellaiche",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.101.060404",
+    "pdf": "pdfs/2020_prb6.pdf"
+  }, {
+    "title": "Towards two-dimensional room temperature multiferroics",
+    "authors": "Hongjun Xiang",
+    "jounal": "National Science Review",
+    "doi": "10.1093/nsr/nwaa258",
+    "pdf": "pdfs/2020_nsr1.pdf"
+  }, {
+    "title": "Tunable spin textures in polar antiferromagnetic hybrid organic–inorganic perovskites by electric and magnetic fields",
+    "authors": "Feng Lou, Teng Gu, Junyi Ji, Junsheng Feng, Hongjun Xiang and Alessandro Stroppa",
+    "jounal": "npj Computational Materials",
+    "doi": "10.1038/s41524-020-00374-8",
+    "pdf": "pdfs/2020_npjcm1.pdf"
+  }, {
+    "title": "Two-dimensional topological semimetals protected by symmorphic symmetries",
+    "authors": "Wei Luo, Junyi Ji, Jinlian Lu, Xiuwen Zhang and Hongjun Xiang",
+    "jounal": "PHYSICAL REVIEW B",
+    "doi": "10.1103/PhysRevB.101.195111",
+    "pdf": "pdfs/2020_prb7.pdf"
+  }],
+  "2021": [{
+    "title": "Atomic Structure and Electron Magnetic Circular Dichroism of Individual Rock Salt Structure Antiphase Boundaries in Spinel Ferrites",
+    "authors": "Zhuo Li, Jinlian Lu, Lei Jin, Ján Rusz, Vancho Kocevski, Hideto Yanagihara, Eiji Kita, Joachim Mayer, Rafal E. Dunin-Borkowski, Hongjun Xiang and Xiaoyan Zhong",
+    "jounal": "Advanced Functional Materials",
+    "doi": "10.1002/adfm.202008306",
+    "pdf": "pdfs/2021_adfm1.pdf"
+  }, {
+    "title": "Cooperative Nature of Ferroelectricity in Two-Dimensional Hybrid Organic−Inorganic Perovskites",
+    "authors": "Yali Yang, Feng Lou and Hongjun Xiang",
+    "jounal": "Nano Letters",
+    "doi": "10.1021/acs.nanolett.1c00395",
+    "pdf": "pdfs/2021_nanolett1.pdf"
+  }, {
+    "title": "Defect states and passivation mechanism at grain boundaries of zinc-blende semiconductors",
+    "authors": "Hong-Yang Gu, Wan-Jian Yin and Xin-Gao Gong",
+    "jounal": "Semiconductor Science and Technology",
+    "doi": "10.1088/1361-6641/abe24e",
+    "pdf": "pdfs/2021_sst1.pdf"
+  }, {
+    "title": "Defect-assisted nonradiative recombination in Cu2ZnSnSe4: A comparative study with Cu2ZnSnS4",
+    "authors": "Yonggang Xu, Ji-Hui Yang, Shiyou Chen and Xin-Gao Gong",
+    "jounal": "PHYSICAL REVIEW MATERIALS",
+    "doi": "10.1103/PhysRevMaterials.5.025403",
+    "pdf": "pdfs/2021_prm1.pdf"
+  }, {
+    "title": "Hyperdynamics simulations with ab initio forces",
+    "authors": "Hong-Yang Gu, Weiguo Gao and Xin-Gao Gong",
+    "jounal": "The Journal of Chemical Physics",
+    "doi": "10.1063/5.0047669",
+    "pdf": "pdfs/2021_jcp1.pdf"
+  }, {
+    "title": "Lead-free hybrid perovskite N(CH3)4SnI3 with robust ferroelectricity induced by large and non-polar N(CH3)4+ molecular cation",
+    "authors": "Hai Wei, Yali Yang, Shiyou Chen & H. J. Xiang",
+    "jounal": "NATURE COMMUNICATIONS",
+    "doi": "10.1038/s41467-021-20889-y",
+    "pdf": "pdfs/2021_nc1.pdf"
+  }, {
+    "title": "PASP: Property analysis and simulation package for materials",
+    "authors": "Feng Lou, X. Y. Li, J. Y. Ji, H. Y. Yu, J. S. Feng, X. G. Gong and H. J. Xiang",
+    "jounal": "The Journal of Chemical Physics",
+    "doi": "10.1063/5.0043703",
+    "pdf": "pdfs/2021_jcp2.pdf"
+  }, {
+    "title": "Rational Design of Two-Dimensional Magnetic Chromium Borides Based on First-Principles Calculation",
+    "authors": "Yi-Lin Zhang(张奕林), Yue-Yu Zhang(张越宇), Jin-Yang Ni(倪斤阳), Ji-Hui Yang(杨吉辉), Hong-Jun Xiang(向红军) and Xin-Gao Gong(龚新高)",
+    "jounal": "Chinese Physics Letters",
+    "doi": "10.1088/0256-307X/38/2/027501",
+    "pdf": "pdfs/2021_cpl1.pdf"
+  }, {
+    "title": "Spin Hamiltonians in Magnets: Theories and Computations",
+    "authors": "Xueyang Li, Hongyu Yu, Feng Lou, Junsheng Feng, Myung-Hwan Whangbo and Hongjun Xiang",
+    "jounal": "Molecules",
+    "doi": "10.3390/molecules26040803",
+    "pdf": "pdfs/2021_molecules1.pdf"
+  }],
   "Before 1990": [{
     "title": "Electronic structure of light impurities in alpha-Fe and V",
     "authors": "Gong XG,Zeng Z,Zheng QQ",
