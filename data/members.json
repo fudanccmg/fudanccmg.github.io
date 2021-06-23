@@ -55,23 +55,23 @@
     "group": "Graduate"
   },
   {
+    "photo": "img/photos/2018_zhangpan.jpg",
+    "name": "Zhang, Pan",
+    "mail": "18110190013@fudan.edu.cn",
+    "discript": "PhD Candidate",
+    "group": "Graduate"
+  },
+  {
     "photo": "img/photos/2018_baoyu.jpg",
     "name": "Bao, Yu",
-    "mail": "@fudan.edu.cn",
+    "mail": "20110190017@fudan.edu.cn",
     "discript": "PhD Candidate",
     "group": "Graduate"
   },
   {
     "photo": "img/photos/",
     "name": "Ji, Junyi",
-    "mail": "@fudan.edu.cn",
-    "discript": "PhD Candidate",
-    "group": "Graduate"
-  },
-  {
-    "photo": "img/photos/2018_zhangpan.jpg",
-    "name": "Zhang, Pan",
-    "mail": "18110190013@fudan.edu.cn",
+    "mail": "20110190004@fudan.edu.cn",
     "discript": "PhD Candidate",
     "group": "Graduate"
   },
@@ -86,6 +86,20 @@
     "photo": "img/photos/2019_heguangmeng.jpg",
     "name": "He, Guangmeng",
     "mail": "20210190014@fudan.edu.cn",
+    "discript": "PhD Candidate",
+    "group": "Graduate"
+  },
+  {
+    "photo": "img/photos/2020_taozhiguo.jpg",
+    "name": "Tao, zhiguo",
+    "mail": "zgtao20@fudan.edu.cn",
+    "discript": "PhD Candidate",
+    "group": "Graduate"
+  },
+  {
+    "photo": "img/photos/2020_yuhongyu.jpg",
+    "name": "Yu, Hongyu",
+    "mail": "20110190060@fudan.edu.cn",
     "discript": "PhD Candidate",
     "group": "Graduate"
   },
@@ -107,20 +121,6 @@
     "photo": "img/photos/2020_sunyufeng.jpg",
     "name": "Sun, Yufeng",
     "mail": "20210190022@fudan.edu.cn",
-    "discript": "PhD Candidate",
-    "group": "Graduate"
-  },
-  {
-    "photo": "img/photos/2020_taozhiguo.jpg",
-    "name": "Tao, zhiguo",
-    "mail": "zgtao20@fudan.edu.cn",
-    "discript": "PhD Candidate",
-    "group": "Graduate"
-  },
-  {
-    "photo": "img/photos/2020_yuhongyu.jpg",
-    "name": "Yu, Hongyu",
-    "mail": "20110190060@fudan.edu.cn",
     "discript": "PhD Candidate",
     "group": "Graduate"
   },
@@ -155,7 +155,7 @@
   {
     "photo": "img/photos/post_zhanghuimin.jpg",
     "name": "Zhang, Huimin",
-    "mail": "yaliyang@fudan.edu.cn",
+    "mail": "hm_zhang@fudan.edu.cn",
     "discript": "",
     "group": "Postdoctor"
   },
