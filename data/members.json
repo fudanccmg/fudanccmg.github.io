@@ -1,6 +1,11 @@
 {
   "members": [
   {
+    "photo": "img/photos/group202101.jpg",
+    "name": "2021",
+    "group": "groupphoto"
+  },
+  {
     "photo": "img/photos/DSC_0689.jpg",
     "name": "2012",
     "group": "groupphoto"
